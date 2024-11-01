@@ -20,7 +20,7 @@
 <body>
   <div>
     <div class="wrapper">
-      <h1 style="font-family: &#39;Lato&#39;, sans-serif;">Weighted Decoding for Vocabulary Aquisition</h1>
+      <h1 style="font-family: &#39;Lato&#39;, sans-serif;">Weighted Decoding for Vocabulary Acquisition</h1>
       <h4 style="font-family: &#39;Lato&#39;, sans-serif; ">NLP Class Project: CSCI 5541, Fall 24 - University of Minnesota</h4>
       <h4 style="font-family: &#39;Lato&#39;, sans-serif; ">Language Learning Mentors (LLMs)</h4>
 
@@ -129,10 +129,10 @@
 
 
     <b>One or two sentences on the motivation behind the problem you are solving.</b>
-    <p>Our project is to create a conversational chatbot that will expand the user's English vocabulary by gradually introducing novel words. Given a list of words that the user is familiar with and a list that is on the frontier of their understanding, at inference time the model will select its wording to prefer familiar words and a small amount of unfamiliar words.</p>
+    <p>Our project is to create a <u>conversational chatbot</u> that will expand the user's English vocabulary by <u>gradually introducing novel words</u>. Given a list of words that the user is familiar with and a list that is on the frontier of their understanding, at inference time the model will select its wording to <u>prefer familiar words</u> and a small amount of unfamiliar words.</p>
 
     <b>One or two sentences describing the approach you took.</b>
-    <p>The core of our model will be an Llama 3.1 8B. Our problem fits under the larger umbrella of controllable text generation, and the approach that we currently plan to use is to modify the decoder to take a list of target words (e.g. familar words, frontier words) as an auxillary input. Then, when sampling, the decoder will  boost the logits of words* in the familiar and frontier vocab lists. (*Note: since sampling happens on the subword token level, we are thinking about employing a tree search method such as beam search to "look ahead" several tokens into the future and boost the probability of any paths resulting in desired words.)</p>
+    <p>The core of our model will be <u>Llama 3.1 8B</u>. Our problem fits under the larger umbrella of controllable text generation, and the approach that we currently plan to use is to <u>modify the decoder</u> to take a list of target words (e.g. familar words, frontier words) as an auxillary input. Then, when sampling, the decoder will <u>boost the logits</u> of words* in the familiar and frontier vocab lists. (*Note: since sampling happens on the subword token level, we are thinking about employing a tree search method such as beam search to "look ahead" several tokens into the future and boost the probability of any paths resulting in desired words.)</p>
     
     <b>One or two sentences on the main result you obtained.</b>
     <p>N/A</p>
@@ -186,7 +186,7 @@ This project would have a direct use for the authors (and other language learner
 </p>
 
 <p>
-  The core of our model will be an Llama 3.1 8B. Our problem fits under the larger umbrella of controllable text generation, and the approach that we currently plan to use is to modify the decoder to take a list of target words (e.g. familar words, frontier words) as an auxillary input. Then, when sampling, the decoder will  boost the logits of words* in the familiar and frontier vocab lists. (*Note: since sampling happens on the subword token level, we are thinking about employing a tree search method such as beam search to "look ahead" several tokens into the future and boost the probability of any paths resulting in desired words.) This vocab-list-based softly-constrained decoder seems novel in the literature based on our cursory investigations.
+  The core of our model will be Llama 3.1 8B. Our problem fits under the larger umbrella of controllable text generation, and the approach that we currently plan to use is to modify the decoder to take a list of target words (e.g. familar words, frontier words) as an auxillary input. Then, when sampling, the decoder will  boost the logits of words* in the familiar and frontier vocab lists. (*Note: since sampling happens on the subword token level, we are thinking about employing a tree search method such as beam search to "look ahead" several tokens into the future and boost the probability of any paths resulting in desired words. I realize now that a good approach would also be to pre-tokenize our desired vocab lists and form them into a trie.) This vocab-list-based softly-constrained decoder seems novel in the literature based on our cursory investigations.
 </p>
 
 <p>
