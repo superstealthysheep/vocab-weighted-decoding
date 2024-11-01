@@ -4,7 +4,7 @@
   
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NLP Class Project | Fall 2024 CSCI 5541 | University of Minnesota</title>
+  <title>Weighted Decoding for Vocabulary Acquisition | Fall 2024 CSCI 5541 | University of Minnesota</title>
 
   <link rel="stylesheet" href="./files/bulma.min.css" />
 
@@ -20,8 +20,8 @@
 <body>
   <div>
     <div class="wrapper">
-      <h1 style="font-family: &#39;Lato&#39;, sans-serif;">Vocab Weighted Decoding</h1>
-      <h4 style="font-family: &#39;Lato&#39;, sans-serif; ">Fall 2024 CSCI 5541 NLP: Class Project - University of Minnesota</h4>
+      <h1 style="font-family: &#39;Lato&#39;, sans-serif;">Weighted Decoding for Vocabulary Aquisition</h1>
+      <h4 style="font-family: &#39;Lato&#39;, sans-serif; ">NLP Class Project: CSCI 5541, Fall 24 - University of Minnesota</h4>
       <h4 style="font-family: &#39;Lato&#39;, sans-serif; ">Language Learning Mentors (LLMs)</h4>
 
       <div class="authors-wrapper">
@@ -119,11 +119,20 @@
     <h2 id="abstract">Abstract</h2>
 
 
+    <!-- <b>One or two sentences on the motivation behind the problem you are solving.</b> -->
+    <!-- <p>When beginner-level language learners try to practice conversation with an LLM, a frequent frustration is that the LLM uses a large amount of complicated, advanced vocabulary. We intend to address this problem by creating a conversational chatbot that will preferentially use words familiar to the user and will expand the user's English vocabulary by gradually introducing novel words. Given a list of words that the user is familiar with and a list that is on the frontier of their understanding, at inference time the model will select its wording to prefer familiar words and a small amount of unfamiliar words. -->
+
+    <!-- Our project is to create a conversational chatbot that will expand the user's English vocabulary by gradually introducing novel words. Given a list of words that the user is familiar with and a list that is on the frontier of their understanding, at inference time the model will select its wording to prefer familiar words and a small amount of unfamiliar words. -->
+
+    <!-- <b>One or two sentences describing the approach you took.</b> -->
+    <!-- The core of our model will be Llama 3.1 8B. Our problem fits under the larger umbrella of controllable text generation, and the approach that we currently plan to use is to modify the decoder to take a list of target words (e.g. familar words, frontier words) as an auxillary input. Then, when sampling, the decoder will  boost the logits of words* in the familiar and frontier vocab lists. (*Note: since sampling happens on the subword token level, we are thinking about employing a tree search method such as beam search to "look ahead" several tokens into the future and boost the probability of any paths resulting in desired words.) -->
+
+
     <b>One or two sentences on the motivation behind the problem you are solving.</b>
-    <p>Our project is to create a model that will expand the user's english vocabulary through conversation. The goal of the model is for it to understand the boundary of what the user does and does not know in-order to allow the user to learn new vocab through conversational context.</p>
+    <p>Our project is to create a conversational chatbot that will expand the user's English vocabulary by gradually introducing novel words. Given a list of words that the user is familiar with and a list that is on the frontier of their understanding, at inference time the model will select its wording to prefer familiar words and a small amount of unfamiliar words.</p>
 
     <b>One or two sentences describing the approach you took.</b>
-    <p>Our model will use the llama 3.1-8B model as a baseline model, and our plan is to implement a modified decoder using a vocab list that will be used to add additional weights in the decoding step. </p>
+    <p>The core of our model will be an Llama 3.1 8B. Our problem fits under the larger umbrella of controllable text generation, and the approach that we currently plan to use is to modify the decoder to take a list of target words (e.g. familar words, frontier words) as an auxillary input. Then, when sampling, the decoder will  boost the logits of words* in the familiar and frontier vocab lists. (*Note: since sampling happens on the subword token level, we are thinking about employing a tree search method such as beam search to "look ahead" several tokens into the future and boost the probability of any paths resulting in desired words.)</p>
     
     <b>One or two sentences on the main result you obtained.</b>
     <p>N/A</p>
@@ -132,9 +141,9 @@
 
 <hr>
 
-<h2 id="teaser">Teaser Figure</h2>
+<!-- <h2 id="teaser">Teaser Figure</h2>
 
-<p>A figure that conveys the main idea behind the project or the main application being addressed. This figure is from <a href="https://arxiv.org/pdf/2210.07469">StyLEx</a>.</p>
+<p>A figure that conveys the main idea behind the project or the main application being addressed. </p>
 
 <p class="sys-img"><img src="./files/teaser.png" alt="imgname"></p>
 
@@ -143,7 +152,7 @@
 
 <p>If you need to explain more about your figure</p>
 
-<hr>
+<hr> -->
 
 <h2 id="introduction">Introduction / Background / Motivation</h2>
 
@@ -151,21 +160,21 @@
 <b>What did you try to do? What problem did you try to solve? Articulate your objectives using absolutely no jargon.</b>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+As language learners, the authors have each attempted to engage in conversations with LLMs to practice our language skills. However, a common problem we've encountered is that the LLM uses lots of vocabulary that is too advanced for us to understand. The ultimate goal of this project is to create a general framework that will address this problem by (note: future features) monitoring the vocabulary used by and understood by the user and (note: current goal) preferentially use words understood by the user, limiting the amount of advanced vocabulary for a better pedagogical experience. For our project, we're limiting our scope to the English language since we all understand English and think it will serve as a good initial prototyping and proving ground.
 </p>
 
 <p>
 <b>How is it done today, and what are the limits of current practice?</b>
 </p>
 <p>
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Based on a brief literature survey, there seems to not be much work directly done on the problem of limiting vocab for language learners. We have found writings on constrained decoding and looser ways to control the generation of LLMs, and we also intend to research further in the educational/HCI literature for other projects that seek to assist language (and especially vocabulary) aquisition.
 <p>
 
 <p>
 <b>Who cares? If you are successful, what difference will it make?</b>
 </p>
 <p>
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This project would have a direct use for the authors (and other language learners) because it would allow for more effective pedagogical conversations with LLMs. This would potentially have general applications for all language learners who wish to practice conversation with LLMs but who are overwhelmed by a large amount of advanced vocabulary used by the LLM. The authors currently imagine that the user would likely be people learning a second language, but perhaps this technique could even find use in early acquisition of first languages in children (perhaps).
 </p>
 
 <hr>
@@ -177,7 +186,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 </p>
 
 <p>
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  The core of our model will be an Llama 3.1 8B. Our problem fits under the larger umbrella of controllable text generation, and the approach that we currently plan to use is to modify the decoder to take a list of target words (e.g. familar words, frontier words) as an auxillary input. Then, when sampling, the decoder will  boost the logits of words* in the familiar and frontier vocab lists. (*Note: since sampling happens on the subword token level, we are thinking about employing a tree search method such as beam search to "look ahead" several tokens into the future and boost the probability of any paths resulting in desired words.) This vocab-list-based softly-constrained decoder seems novel in the literature based on our cursory investigations.
 </p>
 
 <p>
@@ -185,7 +194,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 </p>
 
 <p>
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Getting things running on MSI may be a challenge, and we're still at time of writing figuring out exactly how we're going to quantitatively evaluate our model. Another worry is that direct decoding-time interference may be too "local" of a modification to make, so maybe this method would not perform well in the case of languages with long-range linguistic structures (seperable verb/complement pairs like in German (and English) come to mind.)
 </p>
 
 <hr>
@@ -195,8 +204,8 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <b>How did you measure success? What experiments were used? What were the results, both quantitative and qualitative? Did you succeed? Did you fail? Why?</b>
 </p>
 <p>
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-</p>
+We still need to figure our evaluation metrics out. We'll look at educational/HCI literature and perhaps end up defining some bespoke evaluation metric, though considering our time limitations, it will likely need to be quite simple to implement.
+<!-- </p>
 <table>
   <thead>
     <tr>
@@ -225,14 +234,14 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 <br>
 <div style="text-align: center;">
 <img style="height: 300px;" alt="" src="./files/results.png">
-</div>
+</div> -->
 <br><br>
 
 <hr>
 
 
 
-<h2 id="conclusion">Conclustion and Future Work</h2>
+<!-- <h2 id="conclusion">Conclusion and Future Work</h2>
 <p>
 
   How easily are your results able to be reproduced by others?
@@ -240,8 +249,7 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
   Does your work have potential harm or risk to our society? What kinds? If so, how can you address them?
   What limitations does your model have? How can you extend your work for future research?</p>
 
-
-<hr>
+<hr> -->
 
 
   </div>
