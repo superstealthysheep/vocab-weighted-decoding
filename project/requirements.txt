@@ -4,3 +4,6 @@ plotly-express
 requests
 beautifulsoup4
 
+ipykernel
+langchain
+langchain-google-genai
