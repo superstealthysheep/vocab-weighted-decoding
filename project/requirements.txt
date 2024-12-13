@@ -7,3 +7,6 @@ beautifulsoup4
 ipykernel
 langchain
 langchain-google-genai
+
+pingouin
+krippendorff
