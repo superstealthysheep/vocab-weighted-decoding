@@ -1,0 +1,2266 @@
+,word,freq,pos
+0,the,9243,"(definite article, adverb)"
+1,of,5220,(preposition)
+2,and,5196,(conjunction)
+3,to,4951,"(preposition, adverb)"
+4,a,4506,"(indefinite article, noun, preposition)"
+5,in,2822,"(preposition, adverb)"
+6,is,2699,(verb)
+7,you,2041,"(pronoun, noun)"
+8,are,1843,(verb)
+9,for,1752,"(preposition, conjunction)"
+10,that,1743,"(pronoun, adjective, adverb, conjunction)"
+11,or,1487,(conjunction)
+12,it,1386,"(pronoun, noun)"
+13,as,1363,"(adverb, conjunction, pronoun, preposition)"
+14,be,1145,"(verb, auxiliary verb)"
+15,on,1087,"(preposition, adverb, adjective)"
+16,your,1067,(pronoun)
+17,with,1062,(preposition)
+18,can,895,"(auxiliary verb, noun)"
+19,have,891,"(verb, auxiliary verb)"
+20,this,864,"(pronoun, adjective, adverb)"
+21,an,754,(indefinite article)
+22,by,706,"(preposition, adverb)"
+23,not,658,(adverb)
+24,but,626,"(conjunction, preposition, adverb, noun)"
+25,at,624,(preposition)
+26,from,622,(preposition)
+27,I,621,(pronoun)
+28,they,617,(pronoun)
+29,more,597,"(adjective, adverb)"
+30,will,577,"(auxiliary verb, noun)"
+31,if,546,"(conjunction, noun)"
+32,some,501,"(adjective, pronoun, adverb)"
+33,there,470,"(adverb, pronoun, noun, adjective)"
+34,what,461,"(pronoun, adjective, adverb, interjection)"
+35,about,451,"(preposition, adverb, adjective)"
+36,which,449,"(pronoun, adjective)"
+37,when,442,"(adverb, conjunction)"
+38,one,441,"(adjective, noun, pronoun)"
+39,their,439,(pronoun)
+40,all,438,"(adjective, pronoun, noun, adverb)"
+41,also,419,(adverb)
+42,how,412,"(adverb, conjunction)"
+43,many,397,"(adjective, noun, pronoun)"
+44,do,389,(auxiliary verb)
+45,has,384,(verb)
+46,most,378,"(adjective, noun, adverb)"
+47,people,372,(noun)
+48,other,369,"(adjective, noun, pronoun, adverb)"
+49,time,369,"(noun, adjective, verb)"
+50,so,352,"(adverb, conjunction, pronoun, adjective)"
+51,was,352,"(past, verb)"
+52,we,352,(pronoun)
+53,these,344,"(pronoun, adjective)"
+54,may,336,(auxiliary verb)
+55,like,324,"(preposition, verb, conjunction, adverb)"
+56,use,319,"(verb, noun)"
+57,into,301,(preposition)
+58,than,301,(conjunction)
+59,up,296,"(adverb, preposition, adjective, noun)"
+60,out,294,"(adverb, preposition, adjective, interjection)"
+61,who,281,(pronoun)
+62,them,269,(pronoun)
+63,make,262,"(verb, noun)"
+64,because,248,(conjunction)
+65,such,236,"(adjective, adverb)"
+66,through,235,"(preposition, adverb, adjective)"
+67,get,233,(verb)
+68,work,224,"(noun, adjective, verb)"
+69,even,223,"(adjective, verb, adverb)"
+70,different,215,(adjective)
+71,its,215,(pronoun)
+72,no,213,"(adverb, adjective, noun)"
+73,our,213,(pronoun)
+74,new,210,"(adjective, adverb)"
+75,film,209,"(noun, verb)"
+76,just,208,"(adjective, adverb)"
+77,only,208,"(adverb, adjective, conjunction)"
+78,see,204,(verb)
+79,used,204,(adjective)
+80,good,201,"(adjective, noun, adverb, interjection)"
+81,water,201,"(noun, verb, adjective)"
+82,been,200,"(past, verb)"
+83,need,193,(verb)
+84,should,191,(auxiliary verb)
+85,very,191,(adverb)
+86,any,190,"(adjective, adverb)"
+87,history,187,(noun)
+88,often,187,(adverb)
+89,way,185,(noun)
+90,well,184,"(adverb, verb, noun, interjection)"
+91,art,183,(noun)
+92,know,181,(verb)
+93,were,180,"(past, verb)"
+94,then,179,"(adverb, adjective)"
+95,my,177,(pronoun)
+96,first,176,"(adverb, adjective)"
+97,would,176,(verb)
+98,money,174,"(noun, adjective)"
+99,each,173,"(adjective, adverb)"
+100,over,170,"(preposition, adjective, noun)"
+101,world,169,(noun)
+102,information,168,(noun)
+103,map,167,(noun)
+104,find,166,(verb)
+105,where,166,"(adverb, pronoun, noun)"
+106,much,165,"(adjective, adverb)"
+107,take,164,(verb)
+108,two,164,(noun)
+109,want,163,(verb)
+110,important,160,(adjective)
+111,family,159,(noun)
+112,those,156,(pronoun)
+113,example,147,"(noun, verb)"
+114,while,147,"(noun, conjunction, preposition, verb)"
+115,he,144,(pronoun)
+116,look,144,"(verb, noun, interjection)"
+117,government,143,(noun)
+118,before,141,"(preposition, adverb, conjunction)"
+119,help,141,"(verb, noun, interjection)"
+120,between,137,"(preposition, adverb)"
+121,go,131,"(verb, noun, adjective, interjection)"
+122,own,130,"(adjective, verb)"
+123,however,128,(adverb)
+124,business,127,"(noun, adjective)"
+125,us,127,(pronoun)
+126,great,126,"(adjective, noun, adverb, interjection)"
+127,his,125,"(pronoun, adjective)"
+128,being,124,"(verb, noun)"
+129,another,123,"(adjective, pronoun)"
+130,health,122,(noun)
+131,same,120,"(adjective, pronoun, adverb)"
+132,study,118,"(noun, verb)"
+133,why,118,"(adverb, conjunction, noun, interjection)"
+134,few,117,"(adjective, noun, pronoun)"
+135,game,117,"(noun, adjective, verb)"
+136,might,116,"(auxiliary verb, noun)"
+137,think,116,"(verb, adjective, noun)"
+138,free,115,"(adjective, adverb, verb)"
+139,too,114,(adverb)
+140,had,113,(auxiliary verb)
+141,hi,113,(interjection)
+142,right,113,"(adjective, adverb, noun, verb)"
+143,still,112,"(adjective, noun, adverb, verb)"
+144,system,111,(noun)
+145,after,110,"(preposition, adjective, adverb)"
+146,computer,109,(noun)
+147,best,108,"(adjective, adverb, noun, verb)"
+148,must,108,"(auxiliary verb, verb, adjective, noun)"
+149,her,107,(pronoun)
+150,life,107,"(noun, adjective)"
+151,since,107,"(preposition, adverb, conjunction)"
+152,could,105,(auxiliary verb)
+153,does,104,(verb)
+154,now,104,"(adverb, conjunction, adjective)"
+155,during,103,(preposition)
+156,learn,102,(verb)
+157,around,101,"(adverb, preposition)"
+158,usually,101,(adverb)
+159,form,99,"(noun, verb)"
+160,meat,99,(noun)
+161,air,98,"(noun, verb)"
+162,day,98,"(noun, adjective)"
+163,place,98,"(noun, verb)"
+164,become,97,(verb)
+165,number,97,"(noun, verb)"
+166,public,97,"(adjective, noun)"
+167,read,97,"(verb, noun)"
+168,keep,96,"(verb, noun)"
+169,part,96,"(noun, verb, adverb)"
+170,start,96,"(verb, noun)"
+171,year,96,(noun)
+172,every,95,(adjective)
+173,field,95,"(noun, verb, adjective)"
+174,large,95,(adjective)
+175,once,95,"(adverb, conjunction)"
+176,available,94,(adjective)
+177,down,94,"(adverb, preposition, adjective, verb)"
+178,give,93,"(verb, noun)"
+179,fish,92,"(noun, verb)"
+180,human,92,"(adjective, noun)"
+181,both,91,"(adjective, adverb)"
+182,local,90,"(adjective, noun)"
+183,sure,90,"(adjective, adverb)"
+184,something,89,(pronoun)
+185,without,89,"(preposition, adverb, conjunction)"
+186,come,88,(verb)
+187,me,88,(pronoun)
+188,back,86,"(noun, adverb, verb, adjective)"
+189,better,86,"(adjective, adverb, noun, verb)"
+190,general,85,"(adjective, noun)"
+191,process,85,"(noun, verb)"
+192,she,85,"(pronoun, noun)"
+193,heat,84,"(noun, verb)"
+194,thanks,84,(noun)
+195,specific,83,"(adjective, noun)"
+196,enough,82,"(adjective, adverb, interjection)"
+197,long,82,"(adjective, noun, adverb, verb)"
+198,lot,82,"(pronoun, adverb, noun, verb)"
+199,hand,81,"(noun, verb)"
+200,popular,81,(adjective)
+201,small,81,"(adjective, adverb)"
+202,though,81,"(conjunction, adverb)"
+203,experience,80,"(noun, verb)"
+204,include,80,(verb)
+205,job,80,"(noun, verb)"
+206,music,80,(noun)
+207,person,80,(noun)
+208,really,79,(adverb)
+209,although,78,(conjunction)
+210,thank,78,(verb)
+211,book,77,"(noun, verb)"
+212,early,77,(adverb)
+213,reading,77,(noun)
+214,end,76,"(noun, verb)"
+215,method,76,(noun)
+216,never,76,(adverb)
+217,less,75,"(adjective, adverb, preposition)"
+218,play,75,"(verb, noun)"
+219,able,74,(adjective)
+220,data,74,(noun)
+221,feel,74,"(verb, noun)"
+222,high,74,"(adjective, noun, adverb)"
+223,off,74,"(adverb, preposition, adjective, noun)"
+224,point,74,"(noun, verb)"
+225,type,74,"(noun, verb)"
+226,whether,74,(conjunction)
+227,food,73,(noun)
+228,understanding,73,(noun)
+229,here,72,"(adverb, interjection)"
+230,home,72,"(noun, adjective, adverb, verb)"
+231,certain,71,"(adjective, pronoun)"
+232,economy,71,"(noun, adjective)"
+233,little,71,"(adjective, adverb)"
+234,theory,71,(noun)
+235,tonight,71,"(adverb, noun)"
+236,law,70,(noun)
+237,put,70,"(verb, noun)"
+238,under,70,"(preposition, adverb, adjective)"
+239,value,70,"(noun, verb)"
+240,always,69,(adverb)
+241,body,69,"(noun, verb)"
+242,common,69,"(adjective, noun)"
+243,market,69,"(noun, verb)"
+244,set,69,"(verb, noun, adjective)"
+245,bird,68,(noun)
+246,guide,68,"(noun, verb)"
+247,provide,68,(verb)
+248,change,67,"(verb, noun)"
+249,interest,67,"(noun, verb)"
+250,literature,67,(noun)
+251,sometimes,67,(adverb)
+252,problem,66,(noun)
+253,say,66,"(verb, interjection, noun)"
+254,next,64,"(adjective, adverb, noun)"
+255,create,63,(verb)
+256,simple,63,"(adjective, noun)"
+257,software,63,(noun)
+258,state,63,"(noun, verb)"
+259,together,63,(adverb)
+260,control,62,(noun)
+261,knowledge,62,(noun)
+262,power,62,(noun)
+263,radio,62,"(noun, verb)"
+264,ability,61,(noun)
+265,basic,61,(adjective)
+266,course,61,"(noun, verb)"
+267,economics,61,(noun)
+268,hard,61,"(adjective, adverb)"
+269,add,60,(verb)
+270,company,60,"(noun, verb)"
+271,known,60,(adjective)
+272,love,60,(noun)
+273,past,60,"(adjective, noun, preposition, adverb)"
+274,price,60,"(noun, verb)"
+275,size,60,"(noun, verb, adjective)"
+276,away,59,"(adverb, adjective)"
+277,big,59,"(adjective, noun)"
+278,internet,59,(noun)
+279,possible,59,"(adjective, noun)"
+280,television,59,(noun)
+281,three,59,(number)
+282,understand,59,(verb)
+283,various,59,(adjective)
+284,yourself,59,(pronoun)
+285,card,58,"(noun, verb)"
+286,difficult,58,(adjective)
+287,including,58,(preposition)
+288,list,58,"(noun, verb)"
+289,mind,58,"(noun, verb)"
+290,particular,58,"(adjective, noun)"
+291,real,58,"(adjective, adverb, noun)"
+292,science,58,(noun)
+293,trade,58,"(noun, verb)"
+294,consider,57,(verb)
+295,either,57,"(conjunction, adjective)"
+296,library,57,(noun)
+297,likely,57,(adverb)
+298,nature,57,(noun)
+299,fact,56,(noun)
+300,line,56,"(noun, verb)"
+301,product,56,(noun)
+302,care,55,"(noun, verb)"
+303,group,55,"(noun, verb)"
+304,idea,55,(noun)
+305,risk,55,"(noun, verb)"
+306,several,55,(adjective)
+307,someone,55,(pronoun)
+308,temperature,55,(noun)
+309,united,55,(adjective)
+310,word,55,"(noun, verb, interjection)"
+311,fat,54,"(noun, adjective, verb)"
+312,force,54,"(noun, verb)"
+313,key,54,"(noun, adjective, verb)"
+314,light,54,"(noun, verb, adjective)"
+315,simply,54,(adverb)
+316,today,54,"(adverb, noun)"
+317,training,54,"(noun, adjective)"
+318,until,54,(preposition)
+319,major,53,"(adjective, noun, verb)"
+320,name,53,"(noun, verb, adjective)"
+321,personal,53,"(adjective, noun)"
+322,school,53,"(noun, verb)"
+323,top,53,"(noun, adjective, verb)"
+324,current,52,"(adjective, noun)"
+325,generally,52,(adverb)
+326,historical,52,(adjective)
+327,investment,52,(noun)
+328,left,52,"(adjective, adverb)"
+329,national,52,"(adjective, noun)"
+330,amount,51,"(noun, verb)"
+331,level,51,"(noun, adjective, verb)"
+332,order,51,"(noun, verb)"
+333,practice,51,"(noun, verb)"
+334,research,51,"(noun, verb)"
+335,sense,51,"(noun, verb)"
+336,service,51,"(noun, verb)"
+337,area,50,(noun)
+338,cut,50,"(verb, noun)"
+339,hot,50,(adjective)
+340,instead,50,(adverb)
+341,least,50,"(adjective, adverb)"
+342,natural,50,"(adjective, noun, adverb)"
+343,physical,50,"(adjective, noun)"
+344,piece,50,"(noun, verb)"
+345,show,50,"(verb, noun)"
+346,society,50,(noun)
+347,try,50,"(verb, noun)"
+348,check,49,"(verb, noun, interjection)"
+349,choose,49,(verb)
+350,develop,49,(verb)
+351,second,49,"(number, noun)"
+352,useful,49,(adjective)
+353,web,49,"(noun, verb)"
+354,activity,48,(noun)
+355,boss,48,"(noun, verb, adjective)"
+356,short,48,"(adjective, adverb, noun, verb)"
+357,story,48,(noun)
+358,call,47,"(verb, noun)"
+359,industry,47,(noun)
+360,last,47,"(adjective, adverb, noun, verb)"
+361,media,47,(noun)
+362,mental,47,(adjective)
+363,move,47,"(verb, noun)"
+364,pay,47,"(verb, noun)"
+365,sport,47,"(noun, verb)"
+366,thing,47,(noun)
+367,actually,46,(adverb)
+368,against,46,(preposition)
+369,far,46,"(adverb, adjective)"
+370,fun,46,"(noun, adjective, verb)"
+371,house,46,"(noun, adjective, verb)"
+372,let,46,"(verb, noun)"
+373,page,46,"(noun, verb)"
+374,remember,46,(verb)
+375,term,46,"(noun, verb)"
+376,test,46,"(noun, verb)"
+377,within,46,"(preposition, adverb)"
+378,along,45,"(preposition, adverb)"
+379,answer,45,"(noun, verb)"
+380,increase,45,"(verb, noun)"
+381,oven,45,(noun)
+382,quite,45,"(adverb, interjection)"
+383,scared,45,(adjective)
+384,single,45,"(adjective, noun, verb)"
+385,sound,45,"(noun, verb, adjective)"
+386,again,44,(adverb)
+387,community,44,(noun)
+388,definition,44,(noun)
+389,focus,44,"(noun, verb)"
+390,individual,44,"(adjective, noun)"
+391,matter,44,"(noun, verb)"
+392,safety,44,(noun)
+393,turn,44,"(verb, noun)"
+394,everything,43,(pronoun)
+395,kind,43,"(noun, adjective)"
+396,quality,43,(noun)
+397,soil,43,"(noun, verb)"
+398,ask,42,"(verb, noun)"
+399,board,42,"(noun, verb)"
+400,buy,42,"(verb, noun)"
+401,development,42,(noun)
+402,guard,42,"(verb, noun)"
+403,hold,42,"(verb, noun)"
+404,language,42,(noun)
+405,later,42,"(adverb, interjection)"
+406,main,42,"(adjective, noun)"
+407,offer,42,"(verb, noun)"
+408,oil,42,"(noun, verb)"
+409,picture,42,"(noun, verb)"
+410,potential,42,"(adjective, noun)"
+411,professional,42,"(adjective, noun)"
+412,rather,42,(adverb)
+413,access,41,"(noun, verb, adjective)"
+414,additional,41,(adjective)
+415,almost,41,(adverb)
+416,especially,41,(adverb)
+417,garden,41,"(noun, verb)"
+418,international,41,"(adjective, noun)"
+419,lower,41,"(adjective, adverb)"
+420,management,41,(noun)
+421,open,41,"(adjective, verb, noun)"
+422,player,41,(noun)
+423,range,41,"(noun, verb)"
+424,rate,41,"(noun, verb)"
+425,reason,41,"(noun, verb)"
+426,travel,41,"(verb, noun)"
+427,variety,41,(noun)
+428,video,41,(noun)
+429,week,41,(noun)
+430,above,40,"(adverb, preposition, adjective, noun)"
+431,according,40,"(adjective, verb)"
+432,cook,40,"(verb, noun)"
+433,determine,40,(verb)
+434,future,40,"(noun, adjective)"
+435,site,40,"(noun, verb)"
+436,alternative,39,"(adjective, noun)"
+437,demand,39,"(noun, verb)"
+438,ever,39,(adverb)
+439,exercise,39,"(noun, verb)"
+440,following,39,"(preposition, noun, adjective)"
+441,image,39,"(noun, verb)"
+442,quickly,39,(adverb)
+443,special,39,"(adjective, noun)"
+444,working,39,"(adjective, noun)"
+445,case,38,"(noun, verb)"
+446,cause,38,"(noun, verb)"
+447,coast,38,"(noun, verb)"
+448,probably,38,(adverb)
+449,security,38,(noun)
+450,true,38,"(adjective, adverb, verb)"
+451,whole,38,"(adjective, noun, adverb)"
+452,action,37,"(noun, adjective)"
+453,age,37,"(noun, verb)"
+454,among,37,(preposition)
+455,bad,37,"(noun, adverb, adjective)"
+456,boat,37,"(noun, verb)"
+457,country,37,(noun)
+458,dance,37,"(verb, noun)"
+459,exam,37,(noun)
+460,excuse,37,"(verb, noun)"
+461,grow,37,(verb)
+462,movie,37,(noun)
+463,organization,37,(noun)
+464,record,37,"(noun, verb)"
+465,result,37,"(noun, verb)"
+466,section,37,"(noun, verb)"
+467,across,36,"(preposition, adverb, adjective)"
+468,already,36,(adverb)
+469,below,36,(adverb)
+470,building,36,"(noun, verb)"
+471,mouse,36,"(noun, verb)"
+472,allow,35,(verb)
+473,cash,35,"(noun, verb)"
+474,class,35,"(noun, verb, adjective)"
+475,clear,35,"(adjective, adverb, verb)"
+476,dry,35,"(adjective, verb, noun)"
+477,easy,35,"(adjective, adverb, interjection)"
+478,emotional,35,(adjective)
+479,equipment,35,(noun)
+480,live,35,"(verb, adjective, adverb)"
+481,nothing,35,"(noun, pronoun, adjective, adverb)"
+482,period,35,"(noun, adjective)"
+483,physics,35,(noun)
+484,plan,35,"(noun, verb)"
+485,store,35,"(noun, verb)"
+486,tax,35,"(noun, verb)"
+487,analysis,34,(noun)
+488,cold,34,"(adjective, noun, adverb)"
+489,commercial,34,"(adjective, noun)"
+490,directly,34,(adverb)
+491,full,34,"(adjective, adverb, noun, verb)"
+492,involved,34,"(past, verb)"
+493,itself,34,(pronoun)
+494,low,34,"(adjective, noun, adverb, verb)"
+495,old,34,(adjective)
+496,policy,34,(noun)
+497,political,34,(adjective)
+498,purchase,34,"(verb, noun)"
+499,series,34,(noun)
+500,side,34,"(noun, verb)"
+501,subject,34,"(noun, adjective, adverb, verb)"
+502,supply,34,(verb)
+503,therefore,34,(adverb)
+504,thought,34,(noun)
+505,basis,33,(noun)
+506,boyfriend,33,(noun)
+507,deal,33,"(verb, noun)"
+508,direction,33,(noun)
+509,mean,33,"(verb, adjective, noun)"
+510,primary,33,"(adjective, noun)"
+511,space,33,"(noun, verb)"
+512,strategy,33,(noun)
+513,technology,33,(noun)
+514,worth,33,"(adjective, noun)"
+515,army,32,(noun)
+516,camera,32,(noun)
+517,fall,32,"(verb, noun)"
+518,freedom,32,(noun)
+519,paper,32,(noun)
+520,rule,32,"(noun, verb)"
+521,similar,32,(adjective)
+522,stock,32,"(noun, adjective, verb)"
+523,weather,32,"(noun, verb)"
+524,yet,32,"(adverb, conjunction)"
+525,bring,31,(verb)
+526,chance,31,"(noun, adjective, verb)"
+527,environment,31,(noun)
+528,everyone,31,(pronoun)
+529,figure,31,"(noun, verb)"
+530,improve,31,(verb)
+531,man,31,"(noun, verb, interjection)"
+532,model,31,"(noun, verb)"
+533,necessary,31,"(adjective, noun)"
+534,positive,31,"(adjective, noun)"
+535,produce,31,"(verb, noun)"
+536,search,31,"(verb, noun)"
+537,source,31,"(noun, verb)"
+538,beginning,30,"(noun, adjective, verb)"
+539,child,30,(noun)
+540,earth,30,"(noun, verb)"
+541,else,30,(adverb)
+542,healthy,30,(adjective)
+543,instance,30,(noun)
+544,maintain,30,(verb)
+545,month,30,(noun)
+546,present,30,"(adjective, noun, verb)"
+547,program,30,"(noun, verb)"
+548,spend,30,"(verb, noun)"
+549,talk,30,"(verb, noun)"
+550,truth,30,(noun)
+551,upset,30,"(verb, adjective)"
+552,begin,29,(verb)
+553,chicken,29,"(noun, adjective)"
+554,close,29,"(adjective, adverb, verb, noun)"
+555,creative,29,"(adjective, noun)"
+556,design,29,"(noun, verb)"
+557,feature,29,"(noun, verb)"
+558,financial,29,(adjective)
+559,head,29,"(noun, adjective, verb)"
+560,marketing,29,(noun)
+561,material,29,"(noun, adjective)"
+562,medical,29,(adjective)
+563,purpose,29,"(noun, verb)"
+564,question,29,"(noun, verb)"
+565,rock,29,"(noun, verb)"
+566,salt,29,"(noun, adjective, verb)"
+567,tell,29,"(verb, noun)"
+568,themselves,29,(pronoun)
+569,traditional,29,(adjective)
+570,university,29,(noun)
+571,writing,29,(noun)
+572,act,28,"(noun, verb)"
+573,article,28,(noun)
+574,birth,28,"(noun, verb)"
+575,car,28,"(noun, adjective)"
+576,cost,28,"(verb, noun)"
+577,department,28,(noun)
+578,difference,28,(noun)
+579,dog,28,"(noun, verb)"
+580,drive,28,"(verb, noun)"
+581,exist,28,(verb)
+582,federal,28,(adjective)
+583,goal,28,(noun)
+584,green,28,"(adjective, noun, verb)"
+585,late,28,"(adjective, adverb, noun)"
+586,news,28,(noun)
+587,object,28,"(noun, verb)"
+588,scale,28,"(noun, verb)"
+589,sun,28,"(noun, verb)"
+590,support,28,"(verb, noun)"
+591,tend,28,(verb)
+592,thus,28,(adverb)
+593,audience,27,(noun)
+594,enjoy,27,(verb)
+595,entire,27,(adjective)
+596,fishing,27,(noun)
+597,fit,27,"(adjective, verb, noun)"
+598,glad,27,"(adjective, noun)"
+599,growth,27,(noun)
+600,income,27,(noun)
+601,marriage,27,(noun)
+602,note,27,"(noun, verb)"
+603,perform,27,(verb)
+604,profit,27,"(noun, verb)"
+605,proper,27,"(adjective, adverb, noun)"
+606,related,27,"(past, verb)"
+607,remove,27,"(verb, noun)"
+608,rent,27,"(noun, verb)"
+609,return,27,"(verb, noun)"
+610,run,27,"(verb, noun)"
+611,speed,27,"(noun, verb)"
+612,strong,27,(adjective)
+613,style,27,"(noun, verb)"
+614,throughout,27,(preposition)
+615,user,27,(noun)
+616,war,27,"(noun, verb)"
+617,actual,26,(adjective)
+618,appropriate,26,"(verb, adjective)"
+619,bank,26,"(noun, verb)"
+620,combination,26,(noun)
+621,complex,26,"(adjective, noun, verb)"
+622,content,26,"(adjective, verb, noun)"
+623,craft,26,"(noun, verb)"
+624,due,26,"(adjective, noun, adverb)"
+625,easily,26,(adverb)
+626,effective,26,"(adjective, noun)"
+627,eventually,26,(adverb)
+628,exactly,26,(adverb)
+629,failure,26,(noun)
+630,half,26,"(noun, predeterminer, adverb)"
+631,inside,26,"(noun, adjective, preposition)"
+632,meaning,26,(noun)
+633,medicine,26,(noun)
+634,middle,26,"(adjective, noun)"
+635,outside,26,"(noun, adjective, preposition)"
+636,philosophy,26,(noun)
+637,regular,26,"(adjective, noun)"
+638,reserve,26,"(verb, noun)"
+639,standard,26,"(noun, adjective)"
+640,bus,25,"(noun, verb)"
+641,decide,25,(verb)
+642,exchange,25,"(noun, verb)"
+643,eye,25,"(noun, verb)"
+644,fast,25,"(adjective, adverb, verb)"
+645,fire,25,"(noun, verb)"
+646,identify,25,(verb)
+647,independent,25,"(adjective, noun)"
+648,leave,25,"(verb, noun)"
+649,original,25,"(adjective, noun)"
+650,position,25,"(noun, verb)"
+651,pressure,25,"(noun, verb)"
+652,reach,25,"(verb, noun)"
+653,rest,25,"(verb, noun)"
+654,serve,25,"(verb, noun)"
+655,stress,25,"(noun, verb)"
+656,teacher,25,(noun)
+657,watch,25,"(verb, noun)"
+658,wide,25,"(adjective, adverb)"
+659,advantage,24,"(noun, verb)"
+660,beautiful,24,"(adjective, noun, interjection)"
+661,benefit,24,"(noun, verb)"
+662,box,24,"(noun, verb)"
+663,charge,24,"(verb, noun)"
+664,communication,24,(noun)
+665,complete,24,"(adjective, verb)"
+666,continue,24,(verb)
+667,frame,24,"(noun, verb)"
+668,issue,24,"(noun, verb)"
+669,limited,24,"(past, verb)"
+670,night,24,(noun)
+671,protect,24,(verb)
+672,require,24,(verb)
+673,significant,24,(adjective)
+674,step,24,"(noun, verb)"
+675,successful,24,(adjective)
+676,unless,24,(conjunction)
+677,active,23,"(adjective, noun)"
+678,break,23,"(verb, noun)"
+679,chemistry,23,(noun)
+680,cycle,23,"(noun, verb)"
+681,disease,23,(noun)
+682,disk,23,(noun)
+683,electrical,23,(adjective)
+684,energy,23,(noun)
+685,expensive,23,(adjective)
+686,face,23,"(noun, verb)"
+687,interested,23,"(past, verb)"
+688,item,23,"(noun, adverb)"
+689,metal,23,"(noun, verb)"
+690,nation,23,(noun)
+691,negative,23,"(adjective, noun, interjection, verb)"
+692,occur,23,(verb)
+693,paint,23,"(noun, verb)"
+694,pregnant,23,(adjective)
+695,review,23,"(noun, verb)"
+696,road,23,(noun)
+697,role,23,(noun)
+698,room,23,"(noun, verb)"
+699,safe,23,"(adjective, noun)"
+700,screen,23,"(noun, verb)"
+701,soup,23,(noun)
+702,stay,23,"(verb, noun)"
+703,structure,23,"(noun, verb)"
+704,view,23,"(noun, verb)"
+705,visit,23,"(verb, noun)"
+706,visual,23,"(adjective, noun)"
+707,write,23,(verb)
+708,wrong,23,"(adjective, adverb, noun, verb)"
+709,account,22,"(noun, verb)"
+710,advertising,22,(noun)
+711,affect,22,"(verb, noun)"
+712,ago,22,"(adjective, adverb)"
+713,anyone,22,(pronoun)
+714,approach,22,(verb)
+715,avoid,22,(verb)
+716,ball,22,"(noun, verb)"
+717,behind,22,"(preposition, adverb, adjective, noun)"
+718,certainly,22,(adverb)
+719,concerned,22,"(past, verb)"
+720,cover,22,"(verb, noun)"
+721,discipline,22,"(noun, verb)"
+722,location,22,(noun)
+723,medium,22,"(noun, adjective)"
+724,normally,22,(adverb)
+725,prepare,22,(verb)
+726,quick,22,"(adjective, adverb, noun)"
+727,ready,22,"(adjective, verb)"
+728,report,22,"(verb, noun)"
+729,rise,22,"(verb, noun)"
+730,share,22,"(noun, verb)"
+731,success,22,(noun)
+732,addition,21,(noun)
+733,apartment,21,(noun)
+734,balance,21,"(noun, verb)"
+735,bit,21,"(noun, verb)"
+736,black,21,"(noun, verb, adjective, adverb)"
+737,bottom,21,"(noun, verb, adjective)"
+738,build,21,(verb)
+739,choice,21,"(noun, adjective)"
+740,education,21,(noun)
+741,gift,21,"(noun, verb)"
+742,impact,21,"(noun, verb)"
+743,machine,21,"(noun, verb)"
+744,math,21,(noun)
+745,moment,21,(noun)
+746,painting,21,(noun)
+747,politics,21,(noun)
+748,shape,21,"(noun, verb)"
+749,straight,21,"(adjective, adverb, noun)"
+750,tool,21,"(noun, verb)"
+751,walk,21,"(verb, noun)"
+752,white,21,"(adjective, noun, verb)"
+753,wind,21,"(noun, verb)"
+754,achieve,20,(verb)
+755,address,20,"(noun, verb)"
+756,attention,20,(noun)
+757,average,20,"(noun, verb, adjective)"
+758,believe,20,(verb)
+759,beyond,20,"(preposition, noun)"
+760,career,20,"(noun, verb, adjective)"
+761,culture,20,"(noun, verb)"
+762,decision,20,(noun)
+763,direct,20,"(adjective, adverb, verb)"
+764,event,20,(noun)
+765,excellent,20,"(adjective, interjection)"
+766,extra,20,"(adjective, adverb, noun)"
+767,intelligent,20,(adjective)
+768,interesting,20,(adjective)
+769,junior,20,"(adjective, noun)"
+770,morning,20,"(noun, adverb)"
+771,pick,20,"(verb, noun)"
+772,poor,20,(adjective)
+773,pot,20,"(noun, verb)"
+774,pretty,20,"(adjective, adverb, noun, verb)"
+775,property,20,(noun)
+776,receive,20,(verb)
+777,seem,20,(verb)
+778,shopping,20,(noun)
+779,sign,20,"(noun, verb)"
+780,student,20,(noun)
+781,table,20,"(noun, verb)"
+782,task,20,"(noun, verb)"
+783,unique,20,"(adjective, noun)"
+784,wood,20,(noun)
+785,anything,19,"(pronoun, noun, adverb)"
+786,classic,19,"(adjective, noun)"
+787,competition,19,(noun)
+788,condition,19,"(noun, verb)"
+789,contact,19,"(noun, verb)"
+790,credit,19,"(noun, verb)"
+791,currently,19,(adverb)
+792,discuss,19,(verb)
+793,distribution,19,(noun)
+794,egg,19,"(noun, verb)"
+795,entertainment,19,(noun)
+796,final,19,"(adjective, noun)"
+797,happy,19,(adjective)
+798,hope,19,"(noun, verb)"
+799,ice,19,"(noun, verb)"
+800,lift,19,"(verb, noun)"
+801,mix,19,"(verb, noun)"
+802,network,19,"(noun, verb)"
+803,north,19,"(noun, adjective, adverb)"
+804,office,19,(noun)
+805,overall,19,"(adjective, adverb, noun)"
+806,population,19,(noun)
+807,president,19,(noun)
+808,private,19,"(adjective, noun)"
+809,realize,19,(verb)
+810,responsible,19,(adjective)
+811,separate,19,"(adjective, verb, noun)"
+812,square,19,"(noun, adjective, adverb)"
+813,stop,19,"(verb, noun)"
+814,teach,19,"(verb, noun)"
+815,unit,19,(noun)
+816,western,19,"(adjective, noun)"
+817,yes,19,(interjection)
+818,alone,18,"(adjective, adverb)"
+819,attempt,18,"(noun, verb)"
+820,category,18,(noun)
+821,cigarette,18,(noun)
+822,concern,18,"(verb, noun)"
+823,contain,18,(verb)
+824,context,18,(noun)
+825,cute,18,(adjective)
+826,date,18,"(noun, verb)"
+827,effect,18,"(noun, verb)"
+828,extremely,18,(adverb)
+829,familiar,18,"(adjective, noun)"
+830,finally,18,(adverb)
+831,fly,18,"(verb, noun)"
+832,follow,18,(verb)
+833,helpful,18,(adjective)
+834,introduction,18,(noun)
+835,link,18,"(noun, verb)"
+836,official,18,"(adjective, noun)"
+837,opportunity,18,(noun)
+838,perfect,18,"(adjective, verb, noun)"
+839,performance,18,(noun)
+840,post,18,"(noun, verb, adverb)"
+841,recent,18,(adjective)
+842,refer,18,(verb)
+843,solve,18,(verb)
+844,star,18,"(noun, verb)"
+845,voice,18,"(noun, verb)"
+846,willing,18,(adjective)
+847,born,17,"(verb, adjective, past particple)"
+848,bright,17,"(adjective, adverb, noun)"
+849,broad,17,"(adjective, noun)"
+850,capital,17,"(noun, adjective)"
+851,challenge,17,"(noun, verb, adjective)"
+852,comfortable,17,"(adjective, noun)"
+853,constantly,17,(adverb)
+854,describe,17,(verb)
+855,despite,17,(preposition)
+856,driver,17,(noun)
+857,flat,17,"(adjective, adverb, noun, verb)"
+858,flight,17,(noun)
+859,friend,17,"(noun, verb)"
+860,gain,17,"(verb, noun)"
+861,him,17,(pronoun)
+862,length,17,(noun)
+863,magazine,17,(noun)
+864,maybe,17,"(adverb, noun)"
+865,newspaper,17,(noun)
+866,nice,17,(adjective)
+867,prefer,17,(verb)
+868,prevent,17,(verb)
+869,properly,17,(adverb)
+870,relationship,17,(noun)
+871,rich,17,"(adjective, noun)"
+872,save,17,"(verb, noun, preposition)"
+873,self,17,"(noun, pronoun, adjective, verb)"
+874,shot,17,"(noun, adjective)"
+875,soon,17,(adverb)
+876,specifically,17,(adverb)
+877,stand,17,"(verb, noun)"
+878,teaching,17,(noun)
+879,warm,17,"(adjective, verb)"
+880,wonderful,17,(adjective)
+881,young,17,"(adjective, noun)"
+882,ahead,16,(adverb)
+883,brush,16,"(noun, verb)"
+884,cell,16,(noun)
+885,couple,16,"(noun, verb)"
+886,daily,16,(adverb)
+887,dealer,16,(noun)
+888,debate,16,"(noun, verb)"
+889,discover,16,(verb)
+890,ensure,16,(verb)
+891,exit,16,"(noun, verb)"
+892,expect,16,(verb)
+893,experienced,16,"(past, verb)"
+894,fail,16,"(verb, noun)"
+895,finding,16,(noun)
+896,front,16,"(noun, adjective, verb, interjection)"
+897,function,16,"(noun, verb)"
+898,heavy,16,"(adjective, noun, adverb)"
+899,hello,16,"(interjection, noun)"
+900,highly,16,(adverb)
+901,immediately,16,(adverb)
+902,impossible,16,(adjective)
+903,invest,16,(verb)
+904,lack,16,"(noun, verb)"
+905,lake,16,(noun)
+906,lead,16,"(verb, noun)"
+907,listen,16,"(verb, noun)"
+908,living,16,"(noun, adjective)"
+909,member,16,(noun)
+910,message,16,(noun)
+911,phone,16,(noun)
+912,plant,16,"(noun, verb)"
+913,plastic,16,"(noun, adjective)"
+914,reduce,16,(verb)
+915,relatively,16,(adverb)
+916,scene,16,(noun)
+917,serious,16,(adjective)
+918,slowly,16,(adverb)
+919,speak,16,(verb)
+920,spot,16,"(noun, verb)"
+921,summer,16,"(noun, verb)"
+922,taste,16,"(noun, verb)"
+923,theme,16,"(noun, verb)"
+924,towards,16,(preposition)
+925,track,16,"(noun, verb)"
+926,valuable,16,"(adjective, noun)"
+927,whatever,16,"(pronoun, adverb, interjection)"
+928,wing,16,"(noun, verb)"
+929,worry,16,"(verb, noun)"
+930,appear,15,(verb)
+931,appearance,15,(noun)
+932,association,15,(noun)
+933,brain,15,"(noun, verb)"
+934,button,15,"(noun, verb)"
+935,click,15,"(noun, verb)"
+936,concept,15,(noun)
+937,correct,15,"(adjective, verb)"
+938,customer,15,(noun)
+939,death,15,(noun)
+940,desire,15,"(noun, verb)"
+941,discussion,15,(noun)
+942,explain,15,(verb)
+943,explore,15,(verb)
+944,express,15,"(verb, adjective, adverb, noun)"
+945,fairly,15,(adverb)
+946,fixed,15,"(past, verb)"
+947,foot,15,"(noun, verb)"
+948,gas,15,"(noun, verb)"
+949,handle,15,"(verb, noun)"
+950,housing,15,(noun)
+951,huge,15,(adjective)
+952,inflation,15,(noun)
+953,influence,15,"(noun, verb)"
+954,insurance,15,(noun)
+955,involve,15,(verb)
+956,leading,15,"(adjective, noun)"
+957,lose,15,(verb)
+958,meet,15,"(verb, noun)"
+959,mood,15,(noun)
+960,notice,15,"(noun, verb)"
+961,primarily,15,(adverb)
+962,rain,15,"(noun, verb)"
+963,rare,15,(adjective)
+964,release,15,"(verb, noun)"
+965,sell,15,"(verb, noun)"
+966,slow,15,"(adjective, adverb, verb)"
+967,technical,15,(adjective)
+968,typical,15,(adjective)
+969,upon,15,(preposition)
+970,wall,15,"(noun, verb)"
+971,woman,15,(noun)
+972,advice,14,(noun)
+973,afford,14,(verb)
+974,agree,14,(verb)
+975,base,14,"(noun, verb, adjective)"
+976,blood,14,(noun)
+977,clean,14,"(adjective, adverb, verb)"
+978,competitive,14,(adjective)
+979,completely,14,(adverb)
+980,critical,14,(adjective)
+981,damage,14,"(noun, verb)"
+982,distance,14,"(noun, verb)"
+983,effort,14,(noun)
+984,electronic,14,(adjective)
+985,expression,14,(noun)
+986,feeling,14,"(noun, adjective)"
+987,finish,14,"(verb, noun)"
+988,fresh,14,"(adjective, adverb)"
+989,hear,14,(verb)
+990,immediate,14,(adjective)
+991,importance,14,(noun)
+992,normal,14,"(adjective, noun)"
+993,opinion,14,(noun)
+994,otherwise,14,"(adverb, adjective)"
+995,pair,14,"(noun, verb)"
+996,payment,14,(noun)
+997,plus,14,"(preposition, adjective, noun, conjunction)"
+998,press,14,"(verb, noun)"
+999,reality,14,(noun)
+1000,remain,14,(verb)
+1001,represent,14,(verb)
+1002,responsibility,14,(noun)
+1003,ride,14,"(verb, noun)"
+1004,savings,14,"(noun, adjective, preposition)"
+1005,secret,14,"(adjective, noun)"
+1006,situation,14,(noun)
+1007,skill,14,(noun)
+1008,spread,14,"(verb, noun)"
+1009,spring,14,"(verb, noun)"
+1010,staff,14,"(noun, verb)"
+1011,statement,14,(noun)
+1012,sugar,14,"(noun, verb)"
+1013,target,14,"(noun, verb)"
+1014,text,14,"(noun, verb)"
+1015,tough,14,"(adjective, noun)"
+1016,ultimately,14,(adverb)
+1017,wait,14,"(verb, noun)"
+1018,wealth,14,(noun)
+1019,whenever,14,"(conjunction, adverb)"
+1020,whose,14,(pronoun)
+1021,widely,14,(adverb)
+1022,animal,13,"(noun, adjective)"
+1023,application,13,(noun)
+1024,apply,13,(verb)
+1025,author,13,"(noun, verb)"
+1026,aware,13,(adjective)
+1027,brown,13,"(adjective, noun, verb)"
+1028,budget,13,"(noun, adjective, verb)"
+1029,cheap,13,"(adjective, adverb)"
+1030,city,13,(noun)
+1031,complicated,13,"(past, verb)"
+1032,county,13,(noun)
+1033,deep,13,"(adjective, noun, adverb)"
+1034,depth,13,(noun)
+1035,discount,13,"(noun, verb, adjective)"
+1036,display,13,"(verb, noun)"
+1037,educational,13,(adjective)
+1038,environmental,13,(adjective)
+1039,estate,13,(noun)
+1040,file,13,"(noun, verb)"
+1041,flow,13,"(verb, noun)"
+1042,forget,13,(verb)
+1043,foundation,13,(noun)
+1044,global,13,(adjective)
+1045,grandmother,13,(noun)
+1046,ground,13,"(noun, verb, adjective)"
+1047,heart,13,(noun)
+1048,hit,13,"(verb, noun)"
+1049,legal,13,(adjective)
+1050,lesson,13,"(noun, verb)"
+1051,minute,13,"(noun, adjective, verb)"
+1052,near,13,"(adverb, preposition, adjective, verb)"
+1053,objective,13,"(adjective, noun)"
+1054,officer,13,"(noun, verb)"
+1055,perspective,13,(noun)
+1056,phase,13,"(noun, verb)"
+1057,photo,13,(noun)
+1058,recently,13,(adverb)
+1059,recipe,13,(noun)
+1060,recommend,13,(verb)
+1061,reference,13,"(noun, verb, adjective)"
+1062,register,13,"(noun, verb)"
+1063,relevant,13,(adjective)
+1064,rely,13,(verb)
+1065,secure,13,"(adjective, verb)"
+1066,seriously,13,(adverb)
+1067,shoot,13,"(verb, noun, interjection)"
+1068,sky,13,"(noun, verb)"
+1069,stage,13,"(noun, verb)"
+1070,stick,13,"(noun, verb)"
+1071,studio,13,(noun)
+1072,thin,13,"(adjective, adverb, verb)"
+1073,title,13,"(noun, verb)"
+1074,topic,13,(noun)
+1075,touch,13,"(verb, noun)"
+1076,trouble,13,"(noun, verb)"
+1077,vary,13,(verb)
+1078,accurate,12,(adjective)
+1079,advanced,12,"(past, verb, adjective, noun)"
+1080,bowl,12,"(noun, verb)"
+1081,bridge,12,"(noun, verb)"
+1082,campaign,12,"(noun, verb)"
+1083,cancel,12,"(verb, noun)"
+1084,capable,12,(adjective)
+1085,character,12,"(noun, adjective, verb)"
+1086,chemical,12,"(adjective, noun)"
+1087,club,12,"(noun, verb)"
+1088,collection,12,(noun)
+1089,cool,12,"(adjective, adverb, noun, verb)"
+1090,cry,12,"(verb, noun, idiom)"
+1091,dangerous,12,(adjective)
+1092,depression,12,(noun)
+1093,dump,12,"(verb, noun, idiom)"
+1094,edge,12,"(noun, verb, idiom)"
+1095,evidence,12,"(noun, verb, idiom)"
+1096,extreme,12,"(adjective, noun)"
+1097,fan,12,"(noun, verb, idiom)"
+1098,frequently,12,(adverb)
+1099,fully,12,(adverb)
+1100,generate,12,(verb)
+1101,imagination,12,(noun)
+1102,letter,12,"(noun, verb, idiom)"
+1103,lock,12,"(noun, verb, idiom)"
+1104,maximum,12,"(noun, adjective)"
+1105,mostly,12,(adverb)
+1106,myself,12,(pronoun)
+1107,naturally,12,(adverb)
+1108,nearly,12,(adverb)
+1109,novel,12,"(noun, adjective)"
+1110,obtain,12,(verb)
+1111,occasionally,12,(adverb)
+1112,option,12,"(noun, verb)"
+1113,organized,12,"(past, verb)"
+1114,pack,12,"(noun, verb, adjective, idiom)"
+1115,park,12,"(noun, verb)"
+1116,passion,12,(noun)
+1117,percentage,12,(noun)
+1118,plenty,12,"(noun, adjective, adverb)"
+1119,push,12,"(verb, noun, idiom)"
+1120,quarter,12,"(noun, verb, adjective)"
+1121,resource,12,(noun)
+1122,select,12,"(verb, adjective)"
+1123,setting,12,(noun)
+1124,skin,12,"(noun, verb)"
+1125,sort,12,"(noun, verb)"
+1126,weight,12,"(noun, verb)"
+1127,accept,11,(verb)
+1128,ad,11,(noun)
+1129,agency,11,(noun)
+1130,baby,11,"(noun, verb, adjective)"
+1131,background,11,"(noun, adjective)"
+1132,carefully,11,(adverb)
+1133,carry,11,"(noun, verb)"
+1134,clearly,11,(adverb)
+1135,college,11,(noun)
+1136,communicate,11,(verb)
+1137,complain,11,(verb)
+1138,conflict,11,"(verb, noun)"
+1139,connection,11,(noun)
+1140,criticism,11,(noun)
+1141,debt,11,(noun)
+1142,depend,11,(verb)
+1143,description,11,(noun)
+1144,die,11,"(verb, idiom)"
+1145,dish,11,"(noun, verb, idiom)"
+1146,dramatic,11,(adjective)
+1147,eat,11,"(verb, noun, idiom)"
+1148,efficient,11,(adjective)
+1149,enter,11,(verb)
+1150,essentially,11,(adverb)
+1151,exact,11,"(adjective, verb)"
+1152,factor,11,"(noun, verb)"
+1153,fair,11,"(adjective, adverb, noun, idiom)"
+1154,fill,11,"(verb, noun, idiom)"
+1155,fine,11,"(adjective, adverb, verb, noun)"
+1156,formal,11,"(adjective, noun, adverb)"
+1157,forward,11,"(adverb, adjective, noun, verb)"
+1158,fruit,11,"(noun, verb)"
+1159,glass,11,"(noun, adjective, verb)"
+1160,happen,11,(verb)
+1161,indicate,11,(verb)
+1162,joint,11,"(noun, adjective, verb, idiom)"
+1163,jump,11,"(verb, noun, adjective, adverb)"
+1164,kick,11,"(verb, noun, idiom)"
+1165,master,11,"(noun, adjective, verb)"
+1166,memory,11,(noun)
+1167,muscle,11,"(noun, verb, adjective)"
+1168,opposite,11,"(adjective, noun, preposition, adverb)"
+1169,pass,11,"(verb, noun, idiom)"
+1170,patience,11,(noun)
+1171,pitch,11,"(verb, noun)"
+1172,possibly,11,(adverb)
+1173,powerful,11,(adjective)
+1174,red,11,"(noun, adjective, idiom)"
+1175,remote,11,"(adjective, noun)"
+1176,secretary,11,(noun)
+1177,slightly,11,(adverb)
+1178,solution,11,(noun)
+1179,somewhat,11,(adverb)
+1180,strength,11,"(noun, idiom)"
+1181,suggest,11,(verb)
+1182,survive,11,(verb)
+1183,total,11,"(adjective, noun, verb)"
+1184,traffic,11,"(noun, verb)"
+1185,treat,11,"(verb, noun)"
+1186,trip,11,"(noun, verb, idiom)"
+1187,vast,11,"(adjective, noun)"
+1188,vegetable,11,"(noun, adjective)"
+1189,abuse,10,"(verb, noun)"
+1190,administration,10,(noun)
+1191,appeal,10,"(noun, verb)"
+1192,appreciate,10,(verb)
+1193,aspect,10,(noun)
+1194,attitude,10,(noun)
+1195,beat,10,"(verb, noun, adjective)"
+1196,burn,10,"(verb, noun)"
+1197,chart,10,"(noun, verb)"
+1198,compare,10,(verb)
+1199,deposit,10,"(verb, noun)"
+1200,director,10,(noun)
+1201,equally,10,(adverb)
+1202,foreign,10,(adjective)
+1203,gear,10,"(noun, verb, adjective, idiom)"
+1204,greatly,10,(adverb)
+1205,hungry,10,(adjective)
+1206,ideal,10,"(noun, adjective)"
+1207,imagine,10,(verb)
+1208,kitchen,10,"(noun, adjective)"
+1209,land,10,"(noun, verb, idiom)"
+1210,log,10,"(noun, verb)"
+1211,lost,10,"(adjective, verb, idiom)"
+1212,manage,10,(verb)
+1213,mother,10,"(noun, adjective, verb, idiom)"
+1214,necessarily,10,(adverb)
+1215,net,10,"(noun, verb)"
+1216,party,10,"(noun, adjective, verb)"
+1217,personality,10,(noun)
+1218,personally,10,(adverb)
+1219,practical,10,(adjective)
+1220,principle,10,"(noun, idiom)"
+1221,print,10,"(verb, noun, adjective, idiom)"
+1222,psychological,10,(adjective)
+1223,psychology,10,(noun)
+1224,raise,10,"(verb, noun, idiom)"
+1225,rarely,10,(adverb)
+1226,recommendation,10,(noun)
+1227,regularly,10,(adverb)
+1228,relative,10,"(noun, adjective)"
+1229,response,10,(noun)
+1230,sale,10,"(noun, idiom)"
+1231,season,10,"(noun, verb, idiom)"
+1232,selection,10,(noun)
+1233,severe,10,(adjective)
+1234,signal,10,"(noun, adjective, verb)"
+1235,similarly,10,(adverb)
+1236,sleep,10,"(verb, noun, idiom)"
+1237,smooth,10,"(adjective, adverb, verb, noun)"
+1238,somewhere,10,"(adverb, noun)"
+1239,spirit,10,"(noun, verb, idiom)"
+1240,storage,10,(noun)
+1241,street,10,"(noun, adjective, idiom)"
+1242,suitable,10,(adjective)
+1243,tree,10,"(noun, verb, idiom)"
+1244,version,10,(noun)
+1245,wave,10,"(noun, verb, idiom)"
+1246,advance,9,"(verb, noun, adjective)"
+1247,alcohol,9,(noun)
+1248,anywhere,9,"(adverb, noun)"
+1249,argument,9,(noun)
+1250,basically,9,(adverb)
+1251,belt,9,"(noun, verb)"
+1252,bench,9,"(noun, verb)"
+1253,closed,9,"(past, verb)"
+1254,closely,9,(adverb)
+1255,commission,9,"(noun, verb)"
+1256,complaint,9,(noun)
+1257,connect,9,"(verb, adjective)"
+1258,consist,9,"(verb, noun)"
+1259,contract,9,(noun)
+1260,contribute,9,"(verb, idiom)"
+1261,copy,9,"(noun, verb, idiom)"
+1262,dark,9,"(adjective, noun, idiom)"
+1263,differ,9,(verb)
+1264,double,9,"(adjective, noun, verb, adverb)"
+1265,draw,9,"(verb, noun, idiom)"
+1266,drop,9,"(noun, verb)"
+1267,effectively,9,(adverb)
+1268,emphasis,9,(noun)
+1269,encourage,9,(verb)
+1270,equal,9,"(adjective, noun, verb)"
+1271,everybody,9,(pronoun)
+1272,expand,9,(verb)
+1273,firm,9,"(adjective, verb, adverb, noun)"
+1274,fix,9,"(verb, noun, idiom)"
+1275,frequent,9,"(adjective, verb)"
+1276,highway,9,(noun)
+1277,hire,9,"(verb, noun, adjective, idiom)"
+1278,initially,9,(adverb)
+1279,internal,9,"(adjective, noun)"
+1280,join,9,"(verb, noun)"
+1281,kill,9,"(verb, noun, idiom)"
+1282,literally,9,(adverb)
+1283,loss,9,(noun)
+1284,mainly,9,(adverb)
+1285,membership,9,(noun)
+1286,merely,9,(adverb)
+1287,minimum,9,"(noun, adjective)"
+1288,numerous,9,(adjective)
+1289,path,9,"(noun, idiom)"
+1290,possession,9,(noun)
+1291,preparation,9,(noun)
+1292,progress,9,"(noun, verb, idiom)"
+1293,project,9,"(noun, verb)"
+1294,prove,9,(verb)
+1295,react,9,(verb)
+1296,recognize,9,(verb)
+1297,relax,9,(verb)
+1298,replace,9,(verb)
+1299,sea,9,"(noun, adjective, idiom)"
+1300,sensitive,9,"(adjective, noun)"
+1301,sit,9,"(verb, idiom)"
+1302,south,9,"(noun, adjective, adverb, verb)"
+1303,status,9,"(noun, adjective)"
+1304,steak,9,(noun)
+1305,stuff,9,"(noun, verb)"
+1306,sufficient,9,(adjective)
+1307,tap,9,"(verb, noun)"
+1308,ticket,9,"(noun, verb, idiom)"
+1309,tour,9,"(noun, verb)"
+1310,union,9,(noun)
+1311,unusual,9,(adjective)
+1312,win,9,"(verb, noun)"
+1313,agreement,8,(noun)
+1314,angle,8,"(noun, verb)"
+1315,attack,8,"(verb, noun)"
+1316,blue,8,"(noun, verb, adjective)"
+1317,borrow,8,(verb)
+1318,breakfast,8,"(noun, verb)"
+1319,cancer,8,(noun)
+1320,claim,8,"(verb, noun)"
+1321,confidence,8,"(noun, idiom)"
+1322,consistent,8,(adjective)
+1323,constant,8,"(adjective, noun)"
+1324,cultural,8,(adjective)
+1325,currency,8,(noun)
+1326,daughter,8,"(noun, adjective)"
+1327,degree,8,"(noun, idiom)"
+1328,doctor,8,"(noun, verb)"
+1329,dot,8,"(noun, verb, idiom)"
+1330,drag,8,"(verb, noun, adjective, idiom)"
+1331,dream,8,"(noun, verb, adjective)"
+1332,drink,8,"(verb, noun)"
+1333,duty,8,"(noun, idiom)"
+1334,earn,8,(verb)
+1335,emphasize,8,(verb)
+1336,employment,8,(noun)
+1337,enable,8,(verb)
+1338,engineering,8,(noun)
+1339,entry,8,(noun)
+1340,essay,8,"(noun, verb)"
+1341,existing,8,(adjective)
+1342,famous,8,(adjective)
+1343,father,8,"(noun, verb)"
+1344,fee,8,"(noun, verb)"
+1345,finance,8,"(noun, verb)"
+1346,gently,8,(adverb)
+1347,guess,8,"(verb, noun, idiom)"
+1348,hopefully,8,(adverb)
+1349,hour,8,"(noun, adjective, idiom)"
+1350,interaction,8,(noun)
+1351,juice,8,"(noun, verb, idiom)"
+1352,limit,8,"(noun, verb)"
+1353,luck,8,"(noun, verb, idiom)"
+1354,milk,8,"(noun, verb, idiom)"
+1355,minor,8,"(adjective, noun, verb)"
+1356,mixed,8,"(past, verb)"
+1357,mixture,8,(noun)
+1358,mouth,8,"(noun, verb, idiom)"
+1359,nor,8,(conjunction)
+1360,operate,8,(verb)
+1361,originally,8,(adverb)
+1362,peace,8,"(noun, interjection, verb, idiom)"
+1363,pipe,8,"(noun, verb)"
+1364,please,8,"(adverb, verb, idiom)"
+1365,preference,8,(noun)
+1366,previous,8,"(adjective, idiom)"
+1367,pull,8,"(verb, noun)"
+1368,pure,8,(adjective)
+1369,raw,8,"(adjective, noun, idiom)"
+1370,reflect,8,(verb)
+1371,region,8,(noun)
+1372,republic,8,(noun)
+1373,roughly,8,(adverb)
+1374,seat,8,"(noun, verb)"
+1375,send,8,(verb)
+1376,significantly,8,(adverb)
+1377,soft,8,"(adjective, noun, adverb, interjection)"
+1378,solid,8,"(adjective, noun)"
+1379,stable,8,"(noun, verb)"
+1380,storm,8,"(noun, verb, idiom)"
+1381,substance,8,"(noun, idiom)"
+1382,team,8,"(noun, verb, adjective)"
+1383,tradition,8,(noun)
+1384,trick,8,"(noun, adjective, verb, idiom)"
+1385,virus,8,(noun)
+1386,wear,8,"(verb, noun, idiom)"
+1387,weird,8,"(adjective, noun)"
+1388,wonder,8,"(verb, noun, idiom)"
+1389,actor,7,(noun)
+1390,afraid,7,(adjective)
+1391,afternoon,7,"(noun, adjective)"
+1392,amazing,7,"(adjective, verb)"
+1393,annual,7,"(adjective, noun)"
+1394,anticipate,7,(verb)
+1395,assume,7,(verb)
+1396,bat,7,"(noun, verb)"
+1397,beach,7,"(noun, verb)"
+1398,blank,7,"(noun, verb, adjective)"
+1399,busy,7,"(adjective, verb)"
+1400,catch,7,"(noun, verb)"
+1401,chain,7,"(noun, verb)"
+1402,classroom,7,(noun)
+1403,consideration,7,"(noun, idiom)"
+1404,count,7,"(verb, noun, adjective, idiom)"
+1405,cream,7,"(noun, verb, adjective, idiom)"
+1406,crew,7,"(noun, verb)"
+1407,dead,7,"(adjective, noun, adverb, idiom)"
+1408,delivery,7,(noun)
+1409,detail,7,"(noun, verb, idiom)"
+1410,detailed,7,"(past, verb)"
+1411,device,7,(noun)
+1412,difficulty,7,(noun)
+1413,doubt,7,"(verb, noun, idiom)"
+1414,drama,7,(noun)
+1415,election,7,(noun)
+1416,engage,7,(verb)
+1417,engine,7,(noun)
+1418,enhance,7,(verb)
+1419,examine,7,(verb)
+1420,false,7,"(adjective, adverb, idiom)"
+1421,feed,7,"(verb, noun, idiom)"
+1422,football,7,(noun)
+1423,forever,7,"(adverb, noun, idiom)"
+1424,gold,7,"(noun, adjective)"
+1425,guidance,7,(noun)
+1426,hotel,7,(noun)
+1427,impress,7,"(verb, noun)"
+1428,install,7,(verb)
+1429,interview,7,"(noun, verb)"
+1430,kid,7,"(noun, verb, adjective)"
+1431,mark,7,"(noun, verb, idiom)"
+1432,match,7,"(noun, verb)"
+1433,mission,7,"(noun, adjective)"
+1434,nobody,7,"(pronoun, noun)"
+1435,obvious,7,(adjective)
+1436,ourselves,7,(pronoun)
+1437,owner,7,(noun)
+1438,pain,7,"(noun, verb, idiom)"
+1439,participate,7,(verb)
+1440,pleasure,7,"(noun, verb)"
+1441,priority,7,(noun)
+1442,protection,7,(noun)
+1443,repeat,7,"(verb, noun)"
+1444,round,7,"(adjective, noun, adverb, verb)"
+1445,score,7,"(noun, verb, idiom)"
+1446,screw,7,"(noun, verb, idiom)"
+1447,seek,7,"(verb, idiom)"
+1448,sex,7,"(noun, verb, idiom)"
+1449,sharp,7,"(adjective, verb, adverb, noun)"
+1450,shop,7,"(noun, verb, interjection, idiom)"
+1451,shower,7,"(noun, verb, idiom)"
+1452,sing,7,"(verb, noun)"
+1453,slide,7,"(verb, noun, idiom)"
+1454,strip,7,"(verb, noun)"
+1455,suggestion,7,(noun)
+1456,suit,7,"(noun, verb, idiom)"
+1457,tension,7,(noun)
+1458,thick,7,"(adjective, adverb, noun, idiom)"
+1459,tone,7,"(noun, verb)"
+1460,totally,7,(adverb)
+1461,twice,7,(adverb)
+1462,variation,7,(noun)
+1463,whereas,7,"(conjunction, noun)"
+1464,window,7,"(noun, verb)"
+1465,wise,7,"(adjective, verb, idiom)"
+1466,wish,7,"(verb, noun)"
+1467,agent,6,"(noun, adjective, verb)"
+1468,anxiety,6,(noun)
+1469,atmosphere,6,(noun)
+1470,awareness,6,(noun)
+1471,band,6,"(noun, verb)"
+1472,bath,6,(noun)
+1473,block,6,"(noun, verb)"
+1474,bone,6,"(noun, verb, adverb)"
+1475,bread,6,(noun)
+1476,calendar,6,"(noun, verb)"
+1477,candidate,6,(noun)
+1478,cap,6,"(noun, verb)"
+1479,careful,6,(adjective)
+1480,climate,6,(noun)
+1481,coat,6,"(noun, verb)"
+1482,collect,6,"(verb, adverb, noun)"
+1483,combine,6,"(verb, noun)"
+1484,command,6,"(verb, noun)"
+1485,comparison,6,(noun)
+1486,confusion,6,(noun)
+1487,construction,6,(noun)
+1488,contest,6,"(noun, verb)"
+1489,corner,6,"(noun, adjective, verb, idiom)"
+1490,court,6,"(noun, verb, idiom)"
+1491,cup,6,"(noun, verb)"
+1492,dig,6,"(verb, noun)"
+1493,district,6,"(noun, verb)"
+1494,divide,6,"(verb, noun)"
+1495,door,6,"(noun, idiom)"
+1496,east,6,"(noun, adjective, adverb)"
+1497,elevator,6,(noun)
+1498,elsewhere,6,(adverb)
+1499,emotion,6,(noun)
+1500,employee,6,(noun)
+1501,employer,6,(noun)
+1502,equivalent,6,"(adjective, noun)"
+1503,everywhere,6,(adverb)
+1504,except,6,"(preposition, conjunction, idiom)"
+1505,finger,6,"(noun, verb, idiom)"
+1506,garage,6,"(noun, verb)"
+1507,guarantee,6,"(noun, verb)"
+1508,guest,6,(noun)
+1509,hang,6,"(verb, noun, idiom)"
+1510,height,6,(noun)
+1511,himself,6,(pronoun)
+1512,hole,6,"(noun, verb, idiom)"
+1513,hook,6,"(noun, verb, idiom)"
+1514,hunt,6,"(verb, noun)"
+1515,implement,6,"(noun, verb)"
+1516,initial,6,"(adjective, noun, verb)"
+1517,intend,6,(verb)
+1518,introduce,6,(verb)
+1519,latter,6,(adjective)
+1520,layer,6,"(noun, verb)"
+1521,leadership,6,(noun)
+1522,lecture,6,"(noun, verb)"
+1523,lie,6,"(noun, verb, idiom)"
+1524,mall,6,(noun)
+1525,manager,6,(noun)
+1526,manner,6,"(noun, idiom)"
+1527,march,6,"(verb, noun, idiom)"
+1528,married,6,"(past, verb, adjective, noun)"
+1529,meeting,6,"(noun, idiom)"
+1530,mention,6,"(verb, noun, idiom)"
+1531,narrow,6,"(adjective, verb, noun)"
+1532,nearby,6,"(adjective, adverb)"
+1533,neither,6,"(conjunction, adjective, pronoun)"
+1534,nose,6,"(noun, verb, idiom)"
+1535,obviously,6,(adverb)
+1536,operation,6,(noun)
+1537,parking,6,"(noun, adjective)"
+1538,partner,6,"(noun, verb)"
+1539,perfectly,6,(adverb)
+1540,physically,6,(adverb)
+1541,profile,6,"(noun, verb)"
+1542,proud,6,"(adjective, idiom)"
+1543,recording,6,(noun)
+1544,relate,6,(verb)
+1545,respect,6,"(noun, verb)"
+1546,rice,6,"(noun, verb)"
+1547,routine,6,"(noun, adjective)"
+1548,sample,6,(noun)
+1549,schedule,6,"(noun, verb)"
+1550,settle,6,(verb)
+1551,smell,6,"(verb, noun)"
+1552,somehow,6,"(adverb, idiom)"
+1553,spiritual,6,"(adjective, noun)"
+1554,survey,6,"(verb, noun)"
+1555,swimming,6,"(noun, adjective)"
+1556,telephone,6,"(noun, verb)"
+1557,tie,6,"(verb, noun, idiom)"
+1558,tip,6,"(noun, verb)"
+1559,transportation,6,(noun)
+1560,unhappy,6,(adjective)
+1561,wild,6,"(adjective, adverb, noun, idiom)"
+1562,winter,6,"(noun, adjective, verb)"
+1563,absolutely,5,"(adverb, interjection)"
+1564,acceptable,5,(adjective)
+1565,adult,5,"(adjective, noun)"
+1566,aggressive,5,(adjective)
+1567,airline,5,"(noun, adjective)"
+1568,apart,5,"(adjective, adverb)"
+1569,assure,5,(verb)
+1570,attract,5,(verb)
+1571,bag,5,"(noun, verb)"
+1572,battle,5,"(noun, verb)"
+1573,bed,5,"(noun, verb)"
+1574,bill,5,"(noun, verb)"
+1575,boring,5,(adjective)
+1576,bother,5,"(noun, verb)"
+1577,brief,5,"(adjective, noun, verb)"
+1578,cake,5,"(noun, verb)"
+1579,charity,5,(noun)
+1580,code,5,"(noun, verb)"
+1581,cousin,5,(noun)
+1582,crazy,5,"(adjective, noun, idiom)"
+1583,curve,5,"(noun, verb, idiom)"
+1584,designer,5,"(noun, adjective)"
+1585,dimension,5,"(noun, verb)"
+1586,disaster,5,(noun)
+1587,distinct,5,(adjective)
+1588,distribute,5,(verb)
+1589,dress,5,"(noun, adjective, verb)"
+1590,ease,5,"(noun, verb)"
+1591,eastern,5,(adjective)
+1592,editor,5,(noun)
+1593,efficiency,5,(noun)
+1594,emergency,5,"(noun, adjective)"
+1595,escape,5,"(verb, noun, adjective)"
+1596,evening,5,"(noun, adjective)"
+1597,excitement,5,(noun)
+1598,expose,5,"(verb, idiom)"
+1599,extension,5,"(noun, adjective)"
+1600,extent,5,(noun)
+1601,farm,5,"(noun, verb, idiom)"
+1602,feedback,5,(noun)
+1603,fight,5,"(noun, verb)"
+1604,gap,5,"(noun, verb)"
+1605,gather,5,"(verb, noun, idiom)"
+1606,grade,5,"(noun, verb)"
+1607,guitar,5,(noun)
+1608,hate,5,"(verb, noun)"
+1609,holiday,5,"(noun, adjective, verb)"
+1610,homework,5,(noun)
+1611,horror,5,"(noun, adjective)"
+1612,horse,5,"(noun, verb, adjective, idiom)"
+1613,host,5,"(noun, verb)"
+1614,husband,5,"(noun, verb)"
+1615,leader,5,(noun)
+1616,loan,5,"(noun, verb, idiom)"
+1617,logical,5,(adjective)
+1618,mistake,5,"(noun, verb, idiom)"
+1619,mom,5,(noun)
+1620,mountain,5,"(noun, adjective, idiom)"
+1621,nail,5,"(noun, verb, idiom)"
+1622,noise,5,"(noun, verb)"
+1623,none,5,"(pronoun, adverb, adjective)"
+1624,occasion,5,"(noun, verb, idiom)"
+1625,outcome,5,(noun)
+1626,overcome,5,(verb)
+1627,owe,5,(verb)
+1628,package,5,"(noun, verb)"
+1629,patient,5,"(noun, adjective)"
+1630,pause,5,"(noun, verb, idiom)"
+1631,permission,5,(noun)
+1632,phrase,5,"(noun, verb)"
+1633,presentation,5,(noun)
+1634,prior,5,"(adjective, noun, idiom)"
+1635,promotion,5,(noun)
+1636,proof,5,"(noun, adjective, verb)"
+1637,race,5,"(noun, verb)"
+1638,reasonable,5,(adjective)
+1639,reflection,5,(noun)
+1640,refrigerator,5,(noun)
+1641,relief,5,"(noun, idiom)"
+1642,repair,5,"(verb, noun)"
+1643,resolution,5,(noun)
+1644,revenue,5,(noun)
+1645,rough,5,"(adjective, noun, adverb, verb)"
+1646,sad,5,"(adjective, noun)"
+1647,sand,5,"(noun, verb, idiom)"
+1648,scratch,5,"(verb, noun, adjective, idiom)"
+1649,sentence,5,"(noun, verb)"
+1650,session,5,(noun)
+1651,shoulder,5,"(noun, verb, idiom)"
+1652,sick,5,"(adjective, noun, idiom)"
+1653,singer,5,(noun)
+1654,smoke,5,"(noun, verb, idiom)"
+1655,stomach,5,"(noun, verb)"
+1656,strange,5,"(adjective, adverb)"
+1657,strict,5,(adjective)
+1658,strike,5,"(verb, noun, adjective, idiom)"
+1659,string,5,"(noun, verb, idiom)"
+1660,succeed,5,(verb)
+1661,successfully,5,(adverb)
+1662,suddenly,5,(adverb)
+1663,suffer,5,(verb)
+1664,surprised,5,"(past, verb)"
+1665,tennis,5,(noun)
+1666,throw,5,(verb)
+1667,tourist,5,"(noun, adverb)"
+1668,towel,5,"(noun, verb)"
+1669,truly,5,(adverb)
+1670,vacation,5,"(noun, verb)"
+1671,virtually,5,(adverb)
+1672,west,5,"(noun, adjective, adverb, idiom)"
+1673,wheel,5,"(noun, verb, idiom)"
+1674,wine,5,"(noun, adjective, verb, idiom)"
+1675,acquire,4,(verb)
+1676,adapt,4,(verb)
+1677,adjust,4,(verb)
+1678,administrative,4,(adjective)
+1679,altogether,4,(adverb)
+1680,anyway,4,(adverb)
+1681,argue,4,(verb)
+1682,arise,4,(verb)
+1683,arm,4,"(noun, verb)"
+1684,aside,4,"(noun, adverb)"
+1685,associate,4,"(noun, verb, adjective)"
+1686,automatic,4,(adjective)
+1687,automatically,4,(adverb)
+1688,basket,4,(noun)
+1689,bet,4,"(noun, verb)"
+1690,blow,4,"(noun, verb)"
+1691,bonus,4,(noun)
+1692,border,4,"(noun, verb)"
+1693,branch,4,"(noun, verb)"
+1694,breast,4,"(noun, verb)"
+1695,brother,4,"(noun, interjection)"
+1696,buddy,4,"(noun, verb)"
+1697,bunch,4,"(noun, verb)"
+1698,cabinet,4,(noun)
+1699,childhood,4,(noun)
+1700,chip,4,"(noun, verb)"
+1701,church,4,(noun)
+1702,civil,4,(adjective)
+1703,clothes,4,(noun)
+1704,coach,4,"(noun, verb, adverb)"
+1705,coffee,4,(noun)
+1706,confirm,4,(verb)
+1707,cross,4,"(noun, verb, adjective)"
+1708,deeply,4,(adverb)
+1709,definitely,4,(adverb)
+1710,deliberately,4,(adverb)
+1711,dinner,4,(noun)
+1712,document,4,"(noun, verb)"
+1713,draft,4,"(noun, verb, adjective)"
+1714,drawing,4,(noun)
+1715,dust,4,"(noun, verb)"
+1716,employ,4,"(verb, noun)"
+1717,encouraging,4,(verb)
+1718,expert,4,"(noun, adjective)"
+1719,external,4,"(adjective, noun)"
+1720,floor,4,"(noun, verb)"
+1721,former,4,(adjective)
+1722,god,4,"(noun, interjection)"
+1723,golf,4,"(noun, verb)"
+1724,habit,4,"(noun, verb)"
+1725,hair,4,(noun)
+1726,hardly,4,(adverb)
+1727,hearing,4,(noun)
+1728,hurt,4,"(verb, noun)"
+1729,illegal,4,"(adjective, noun)"
+1730,incorporate,4,(verb)
+1731,initiative,4,(noun)
+1732,iron,4,"(noun, verb)"
+1733,judge,4,"(noun, verb)"
+1734,judgment,4,(noun)
+1735,justify,4,(verb)
+1736,knife,4,"(noun, verb)"
+1737,lab,4,(noun)
+1738,landscape,4,"(noun, verb)"
+1739,laugh,4,"(verb, noun)"
+1740,lay,4,"(verb, noun, adjective)"
+1741,league,4,"(noun, verb)"
+1742,loud,4,"(adjective, adverb)"
+1743,mail,4,"(noun, verb)"
+1744,massive,4,(adjective)
+1745,measurement,4,(noun)
+1746,mess,4,"(noun, verb)"
+1747,mobile,4,"(adjective, noun)"
+1748,mode,4,(noun)
+1749,mud,4,(noun)
+1750,nasty,4,"(adjective, noun)"
+1751,native,4,"(noun, adjective)"
+1752,opening,4,"(noun, adjective)"
+1753,orange,4,(noun)
+1754,ordinary,4,"(adjective, noun)"
+1755,organize,4,(verb)
+1756,ought,4,(verb)
+1757,parent,4,"(noun, verb)"
+1758,pattern,4,"(noun, verb)"
+1759,pin,4,"(noun, verb)"
+1760,poetry,4,(noun)
+1761,police,4,(noun)
+1762,pool,4,"(noun, verb)"
+1763,possess,4,(verb)
+1764,possibility,4,(noun)
+1765,pound,4,"(noun, verb)"
+1766,procedure,4,(noun)
+1767,queen,4,(noun)
+1768,ratio,4,(noun)
+1769,readily,4,(adverb)
+1770,relation,4,(noun)
+1771,relieve,4,(verb)
+1772,request,4,"(noun, verb)"
+1773,respond,4,"(verb, noun)"
+1774,restaurant,4,(noun)
+1775,retain,4,(verb)
+1776,royal,4,"(adjective, noun)"
+1777,salary,4,"(noun, verb)"
+1778,satisfaction,4,(noun)
+1779,sector,4,(noun)
+1780,senior,4,"(adjective, noun)"
+1781,shame,4,"(noun, verb)"
+1782,shelter,4,"(noun, verb)"
+1783,shoe,4,"(noun, verb)"
+1784,shut,4,(verb)
+1785,signature,4,(noun)
+1786,significance,4,(noun)
+1787,silver,4,"(noun, adjective, verb)"
+1788,somebody,4,(pronoun)
+1789,song,4,(noun)
+1790,southern,4,(adjective)
+1791,split,4,"(verb, noun)"
+1792,strain,4,"(verb, noun)"
+1793,struggle,4,"(verb, noun)"
+1794,super,4,"(adjective, adverb, noun)"
+1795,swim,4,"(verb, noun)"
+1796,tackle,4,"(noun, verb)"
+1797,tank,4,"(noun, verb)"
+1798,terribly,4,(adverb)
+1799,tight,4,"(adjective, adverb)"
+1800,tooth,4,(noun)
+1801,town,4,(noun)
+1802,train,4,"(verb, noun)"
+1803,trust,4,"(noun, verb)"
+1804,unfair,4,(adjective)
+1805,unfortunately,4,(adverb)
+1806,upper,4,"(adjective, noun)"
+1807,vehicle,4,(noun)
+1808,visible,4,(adjective)
+1809,volume,4,(noun)
+1810,wash,4,"(verb, noun)"
+1811,waste,4,"(verb, adjective, noun)"
+1812,wife,4,(noun)
+1813,yellow,4,"(adjective, noun, verb)"
+1814,yours,4,(pronoun)
+1815,accident,3,(noun)
+1816,airport,3,(noun)
+1817,alive,3,(adjective)
+1818,angry,3,(adjective)
+1819,appointment,3,(noun)
+1820,arrival,3,(noun)
+1821,assist,3,"(noun, verb)"
+1822,assumption,3,(noun)
+1823,bake,3,"(noun, verb)"
+1824,bar,3,"(noun, verb, preposition)"
+1825,baseball,3,(noun)
+1826,bell,3,"(noun, verb)"
+1827,bike,3,"(noun, verb)"
+1828,blame,3,"(noun, verb)"
+1829,boy,3,"(noun, interjection)"
+1830,brick,3,"(noun, verb)"
+1831,calculate,3,(verb)
+1832,chair,3,"(noun, verb)"
+1833,chapter,3,(noun)
+1834,closet,3,"(noun, verb, adjective)"
+1835,clue,3,"(noun, verb)"
+1836,collar,3,"(noun, verb)"
+1837,comment,3,"(noun, verb)"
+1838,committee,3,(noun)
+1839,compete,3,(verb)
+1840,concerning,3,(preposition)
+1841,conference,3,"(noun, verb)"
+1842,consult,3,(verb)
+1843,conversation,3,(noun)
+1844,convert,3,"(verb, noun)"
+1845,crash,3,"(verb, noun, adjective, adverb)"
+1846,database,3,(noun)
+1847,deliver,3,(verb)
+1848,dependent,3,"(adjective, noun)"
+1849,desperate,3,(adjective)
+1850,devil,3,"(noun, verb)"
+1851,diet,3,"(noun, verb)"
+1852,enthusiasm,3,(noun)
+1853,error,3,(noun)
+1854,exciting,3,(adjective)
+1855,explanation,3,(noun)
+1856,extend,3,(verb)
+1857,farmer,3,(noun)
+1858,fear,3,"(noun, verb)"
+1859,fold,3,"(verb, noun)"
+1860,forth,3,(adverb)
+1861,friendly,3,(adjective)
+1862,fuel,3,"(noun, verb)"
+1863,funny,3,"(adjective, noun)"
+1864,gate,3,(noun)
+1865,girl,3,(noun)
+1866,glove,3,"(noun, verb)"
+1867,grab,3,"(verb, noun)"
+1868,gross,3,"(adjective, adverb, verb, noun)"
+1869,hall,3,(noun)
+1870,herself,3,(pronoun)
+1871,hide,3,"(verb, noun)"
+1872,historian,3,(noun)
+1873,hospital,3,(noun)
+1874,ill,3,"(adjective, adverb, noun)"
+1875,injury,3,(noun)
+1876,instruction,3,(noun)
+1877,investigate,3,(verb)
+1878,jacket,3,"(noun, verb)"
+1879,lucky,3,(adjective)
+1880,lunch,3,"(noun, verb)"
+1881,maintenance,3,(noun)
+1882,manufacturer,3,(noun)
+1883,meal,3,(noun)
+1884,miss,3,"(verb, noun)"
+1885,monitor,3,"(noun, verb)"
+1886,mortgage,3,"(noun, verb)"
+1887,negotiate,3,(verb)
+1888,nurse,3,"(noun, verb)"
+1889,pace,3,"(noun, verb, preposition)"
+1890,panic,3,"(noun, verb)"
+1891,peak,3,"(noun, verb, adjective)"
+1892,perception,3,(noun)
+1893,permit,3,"(verb, noun)"
+1894,pie,3,(noun)
+1895,plane,3,"(noun, adjective, verb)"
+1896,poem,3,(noun)
+1897,presence,3,(noun)
+1898,proposal,3,(noun)
+1899,provided,3,"(past, verb)"
+1900,qualify,3,(verb)
+1901,quote,3,"(verb, noun)"
+1902,realistic,3,(adjective)
+1903,reception,3,(noun)
+1904,recover,3,"(verb, noun)"
+1905,replacement,3,(noun)
+1906,resolve,3,"(verb, noun)"
+1907,retire,3,(verb)
+1908,revolution,3,(noun)
+1909,reward,3,"(noun, verb)"
+1910,rid,3,(verb)
+1911,river,3,(noun)
+1912,roll,3,"(verb, noun)"
+1913,row,3,"(noun, verb)"
+1914,sandwich,3,"(noun, verb)"
+1915,shock,3,"(noun, verb)"
+1916,sink,3,"(verb, noun)"
+1917,slip,3,"(verb, noun)"
+1918,son,3,(noun)
+1919,sorry,3,(adjective)
+1920,spare,3,"(adjective, noun, verb)"
+1921,speech,3,(noun)
+1922,spite,3,"(noun, verb)"
+1923,spray,3,"(noun, verb)"
+1924,surprise,3,"(noun, verb)"
+1925,suspect,3,"(verb, noun, adjective)"
+1926,sweet,3,"(adjective, noun)"
+1927,swing,3,"(verb, noun)"
+1928,tea,3,(noun)
+1929,till,3,"(noun, verb)"
+1930,transition,3,"(noun, verb)"
+1931,twist,3,"(verb, noun)"
+1932,ugly,3,(adjective)
+1933,unlikely,3,(adjective)
+1934,upstairs,3,"(adjective, noun)"
+1935,usual,3,"(adjective, noun)"
+1936,village,3,(noun)
+1937,warning,3,(noun)
+1938,weekend,3,"(noun, verb)"
+1939,weigh,3,(verb)
+1940,welcome,3,"(noun, interjection, verb, adjective)"
+1941,winner,3,(noun)
+1942,worker,3,(noun)
+1943,writer,3,(noun)
+1944,yard,3,"(noun, verb)"
+1945,abroad,2,"(adverb, noun)"
+1946,alarm,2,"(noun, verb)"
+1947,anxious,2,(adjective)
+1948,arrive,2,(verb)
+1949,assistance,2,(noun)
+1950,attach,2,(verb)
+1951,behave,2,(verb)
+1952,bend,2,"(noun, verb)"
+1953,bicycle,2,"(noun, verb)"
+1954,bite,2,"(noun, verb)"
+1955,blind,2,"(noun, verb, adjective, adverb)"
+1956,bottle,2,"(noun, verb)"
+1957,brave,2,"(adjective, noun, verb)"
+1958,breath,2,(noun)
+1959,briefly,2,(adverb)
+1960,buyer,2,(noun)
+1961,cable,2,"(noun, verb)"
+1962,calm,2,"(adjective, noun, verb)"
+1963,candle,2,"(noun, verb)"
+1964,celebrate,2,(verb)
+1965,chest,2,(noun)
+1966,chocolate,2,(noun)
+1967,clerk,2,"(noun, verb)"
+1968,cloud,2,"(noun, verb)"
+1969,comprehensive,2,(adjective)
+1970,concentrate,2,"(verb, noun)"
+1971,concert,2,"(noun, verb)"
+1972,conclusion,2,(noun)
+1973,contribution,2,(noun)
+1974,convince,2,(verb)
+1975,cookie,2,(noun)
+1976,counter,2,"(noun, verb, adverb, adjective)"
+1977,courage,2,(noun)
+1978,curious,2,(adjective)
+1979,dad,2,(noun)
+1980,desk,2,(noun)
+1981,dirty,2,"(adjective, verb)"
+1982,disagree,2,(verb)
+1983,downtown,2,"(adjective, adverb, noun)"
+1984,drawer,2,(noun)
+1985,establish,2,(verb)
+1986,establishment,2,(noun)
+1987,estimate,2,"(verb, noun)"
+1988,examination,2,(noun)
+1989,flower,2,"(noun, verb)"
+1990,garbage,2,(noun)
+1991,grand,2,"(adjective, noun)"
+1992,grandfather,2,"(noun, verb)"
+1993,grocery,2,(noun)
+1994,harm,2,"(noun, verb)"
+1995,honest,2,"(adjective, adverb)"
+1996,honey,2,(noun)
+1997,ignore,2,(verb)
+1998,imply,2,(verb)
+1999,impression,2,(noun)
+2000,impressive,2,(adjective)
+2001,improvement,2,(noun)
+2002,independence,2,(noun)
+2003,informal,2,(adjective)
+2004,inner,2,(adjective)
+2005,insect,2,(noun)
+2006,insist,2,(verb)
+2007,inspection,2,(noun)
+2008,inspector,2,(noun)
+2009,king,2,(noun)
+2010,knee,2,"(noun, verb)"
+2011,ladder,2,(noun)
+2012,lawyer,2,"(noun, verb)"
+2013,leather,2,"(noun, adjective, verb)"
+2014,load,2,"(noun, verb)"
+2015,loose,2,"(adjective, verb)"
+2016,male,2,"(adjective, noun)"
+2017,menu,2,(noun)
+2018,mine,2,"(pronoun, noun, verb)"
+2019,mirror,2,"(noun, verb)"
+2020,moreover,2,(adverb)
+2021,neck,2,"(noun, verb)"
+2022,penalty,2,(noun)
+2023,pension,2,"(noun, verb)"
+2024,piano,2,(noun)
+2025,plate,2,"(noun, verb)"
+2026,pleasant,2,(adjective)
+2027,pleased,2,"(past, verb)"
+2028,potato,2,(noun)
+2029,profession,2,(noun)
+2030,professor,2,(noun)
+2031,prompt,2,"(verb, noun, adjective)"
+2032,proposed,2,"(past, verb)"
+2033,purple,2,"(noun, adjective, verb)"
+2034,pursue,2,(verb)
+2035,quantity,2,(noun)
+2036,quiet,2,"(adjective, noun, verb)"
+2037,reaction,2,(noun)
+2038,refuse,2,"(verb, noun)"
+2039,regret,2,"(verb, noun)"
+2040,remaining,2,(verb)
+2041,requirement,2,(noun)
+2042,reveal,2,"(verb, noun)"
+2043,ruin,2,"(noun, verb)"
+2044,rush,2,"(verb, noun)"
+2045,salad,2,(noun)
+2046,sexual,2,(adjective)
+2047,shake,2,"(verb, noun)"
+2048,shift,2,"(verb, noun)"
+2049,shine,2,"(verb, noun)"
+2050,ship,2,"(noun, verb)"
+2051,sister,2,(noun)
+2052,skirt,2,"(noun, verb)"
+2053,slice,2,"(noun, verb)"
+2054,snow,2,"(noun, verb)"
+2055,specialist,2,"(noun, adjective)"
+2056,specify,2,(verb)
+2057,steal,2,"(verb, noun)"
+2058,stroke,2,"(noun, verb)"
+2059,strongly,2,(adverb)
+2060,suck,2,"(verb, noun)"
+2061,sudden,2,(adjective)
+2062,supermarket,2,(noun)
+2063,surround,2,"(verb, noun)"
+2064,switch,2,"(noun, verb)"
+2065,terrible,2,(adjective)
+2066,tired,2,"(past, verb)"
+2067,tongue,2,(noun)
+2068,trash,2,"(noun, verb)"
+2069,tune,2,"(noun, verb)"
+2070,unable,2,(adjective)
+2071,warn,2,(verb)
+2072,weak,2,(adjective)
+2073,weakness,2,(noun)
+2074,wedding,2,(noun)
+2075,wooden,2,(adjective)
+2076,worried,2,"(past, verb)"
+2077,yeah,2,"(adverb, interjection)"
+2078,zone,2,"(noun, verb)"
+2079,accuse,1,(verb)
+2080,admire,1,(verb)
+2081,admit,1,(verb)
+2082,adopt,1,(verb)
+2083,affair,1,(noun)
+2084,ambition,1,(noun)
+2085,analyst,1,(noun)
+2086,anger,1,"(noun, verb)"
+2087,announce,1,(verb)
+2088,anybody,1,"(pronoun, noun)"
+2089,apologize,1,(verb)
+2090,apple,1,(noun)
+2091,approve,1,(verb)
+2092,asleep,1,(adjective)
+2093,assignment,1,(noun)
+2094,assistant,1,(noun)
+2095,attend,1,(verb)
+2096,award,1,"(noun, verb)"
+2097,bathroom,1,(noun)
+2098,bear,1,"(verb, noun)"
+2099,bedroom,1,(noun)
+2100,beer,1,(noun)
+2101,belong,1,(verb)
+2102,bid,1,"(noun, verb)"
+2103,birthday,1,(noun)
+2104,bitter,1,"(noun, adjective)"
+2105,boot,1,"(noun, verb)"
+2106,brilliant,1,"(adjective, noun)"
+2107,bug,1,"(noun, verb)"
+2108,camp,1,"(noun, verb, adjective)"
+2109,candy,1,"(noun, verb)"
+2110,carpet,1,"(noun, verb)"
+2111,cat,1,"(noun, verb)"
+2112,celebration,1,(noun)
+2113,champion,1,"(noun, verb)"
+2114,championship,1,(noun)
+2115,channel,1,"(noun, verb)"
+2116,cheek,1,(noun)
+2117,client,1,(noun)
+2118,clock,1,"(noun, verb)"
+2119,comfort,1,"(noun, verb)"
+2120,commit,1,(verb)
+2121,confident,1,(adjective)
+2122,conscious,1,(adjective)
+2123,consequence,1,(noun)
+2124,cow,1,"(noun, verb)"
+2125,crack,1,"(noun, verb, adjective)"
+2126,criticize,1,(verb)
+2127,dare,1,"(verb, noun)"
+2128,dear,1,"(adjective, noun, adverb, interjection)"
+2129,decent,1,(adjective)
+2130,delay,1,"(verb, noun)"
+2131,departure,1,(noun)
+2132,deserve,1,(verb)
+2133,destroy,1,(verb)
+2134,diamond,1,(noun)
+2135,dirt,1,(noun)
+2136,disappointed,1,"(past, verb)"
+2137,drunk,1,"(adjective, noun)"
+2138,ear,1,(noun)
+2139,embarrassed,1,(adjective)
+2140,empty,1,"(adjective, verb, noun)"
+2141,engineer,1,"(noun, verb)"
+2142,entrance,1,"(noun, verb)"
+2143,fault,1,"(noun, verb)"
+2144,female,1,"(adjective, noun)"
+2145,fortune,1,(noun)
+2146,friendship,1,(noun)
+2147,funeral,1,(noun)
+2148,gene,1,(noun)
+2149,girlfriend,1,(noun)
+2150,grass,1,"(noun, verb)"
+2151,guilty,1,(adjective)
+2152,guy,1,"(noun, verb)"
+2153,hat,1,(noun)
+2154,hell,1,"(noun, interjection)"
+2155,hesitate,1,(verb)
+2156,highlight,1,"(noun, verb)"
+2157,honestly,1,(adverb)
+2158,hurry,1,"(verb, noun)"
+2159,illustrate,1,(verb)
+2160,incident,1,"(noun, adjective)"
+2161,indication,1,(noun)
+2162,inevitable,1,"(adjective, noun)"
+2163,inform,1,(verb)
+2164,intention,1,(noun)
+2165,invite,1,"(verb, noun)"
+2166,island,1,"(noun, verb)"
+2167,joke,1,"(noun, verb)"
+2168,jury,1,"(noun, verb, adjective)"
+2169,kiss,1,"(verb, noun)"
+2170,lady,1,(noun)
+2171,leg,1,"(noun, verb)"
+2172,lip,1,"(noun, verb)"
+2173,lonely,1,(adjective)
+2174,mad,1,(adjective)
+2175,manufacturing,1,(verb)
+2176,marry,1,"(verb, interjection)"
+2177,mate,1,"(noun, verb)"
+2178,midnight,1,(noun)
+2179,motor,1,"(noun, adjective, verb)"
+2180,neat,1,"(adjective, noun)"
+2181,negotiation,1,(noun)
+2182,nerve,1,"(noun, verb)"
+2183,nervous,1,(adjective)
+2184,nowhere,1,"(adverb, pronoun, adjective)"
+2185,obligation,1,(noun)
+2186,odd,1,(adjective)
+2187,ok,1,"(adjective, adverb, noun, verb)"
+2188,passage,1,"(noun, verb)"
+2189,passenger,1,(noun)
+2190,pen,1,"(noun, verb)"
+2191,persuade,1,(verb)
+2192,pizza,1,(noun)
+2193,platform,1,(noun)
+2194,poet,1,(noun)
+2195,pollution,1,(noun)
+2196,pop,1,"(verb, noun, adverb, adjective)"
+2197,pour,1,(verb)
+2198,pray,1,"(verb, adverb)"
+2199,pretend,1,"(verb, adjective)"
+2200,previously,1,(adverb)
+2201,pride,1,"(noun, verb)"
+2202,priest,1,"(noun, verb)"
+2203,prize,1,"(noun, adjective, verb)"
+2204,promise,1,"(noun, verb)"
+2205,propose,1,(verb)
+2206,punch,1,"(verb, noun)"
+2207,quit,1,"(verb, noun)"
+2208,recognition,1,(noun)
+2209,remarkable,1,(adjective)
+2210,remind,1,(verb)
+2211,reply,1,"(verb, noun)"
+2212,representative,1,"(adjective, noun)"
+2213,reputation,1,(noun)
+2214,resident,1,"(noun, adjective)"
+2215,resist,1,"(verb, noun)"
+2216,resort,1,"(noun, verb)"
+2217,ring,1,"(noun, verb)"
+2218,rip,1,"(verb, noun)"
+2219,roof,1,"(noun, verb)"
+2220,rope,1,"(noun, verb)"
+2221,rub,1,"(verb, noun)"
+2222,sail,1,"(noun, verb)"
+2223,scheme,1,"(noun, verb)"
+2224,script,1,"(noun, verb)"
+2225,shall,1,(verb)
+2226,shirt,1,(noun)
+2227,silly,1,"(adjective, noun)"
+2228,sir,1,(noun)
+2229,slight,1,"(adjective, verb, noun)"
+2230,smart,1,"(adjective, verb, noun)"
+2231,smile,1,"(verb, noun)"
+2232,sock,1,"(noun, verb)"
+2233,speaker,1,(noun)
+2234,spell,1,"(verb, noun)"
+2235,station,1,"(noun, verb)"
+2236,stranger,1,(noun)
+2237,stretch,1,"(verb, noun)"
+2238,stupid,1,"(adjective, noun)"
+2239,submit,1,(verb)
+2240,substantial,1,(adjective)
+2241,suppose,1,(verb)
+2242,surgery,1,(noun)
+2243,suspicious,1,(adjective)
+2244,sympathy,1,(noun)
+2245,tale,1,(noun)
+2246,tall,1,(adjective)
+2247,tear,1,"(verb, noun)"
+2248,temporary,1,"(adjective, noun)"
+2249,throat,1,(noun)
+2250,tiny,1,(adjective)
+2251,toe,1,"(noun, verb)"
+2252,tomorrow,1,"(adverb, noun)"
+2253,tower,1,"(noun, verb)"
+2254,trainer,1,(noun)
+2255,translate,1,(verb)
+2256,truck,1,"(noun, verb)"
+2257,uncle,1,(noun)
+2258,wake,1,"(verb, noun)"
+2259,weekly,1,"(adjective, adverb, noun)"
+2260,whoever,1,(pronoun)
+2261,witness,1,"(noun, verb)"
+2262,wrap,1,"(verb, noun)"
+2263,yesterday,1,"(adverb, noun)"
+2264,youth,1,(noun)

@@ -1,0 +1,6 @@
+pandas
+plotly-express
+
+requests
+beautifulsoup4
+
