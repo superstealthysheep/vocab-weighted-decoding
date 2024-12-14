@@ -1,5 +1,6 @@
 pandas
 plotly-express
+kaleido
 
 requests
 beautifulsoup4
