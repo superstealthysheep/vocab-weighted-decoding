@@ -138,7 +138,16 @@
     <p>N/A</p> -->
 
     <p>
-      Language learning is a complex process, and with the lack of personalized tools outside the classroom, language learners often are hindered in their pursuit of new vocabulary acquisition. Large language models (LLMs) present a promising medium for practical conversational practice as well as personalization. Our goal for this project is to aid in a language learner’s acquisition of new vocabulary words through conversation. More specifically, given a vocabulary word(s) the learner wants to learn, the LLM will generate a sentence containing the word with enough context for the learner to understand the meaning while keeping the skill level (known vocabulary) of the learner in mind. This allows the language learner to learn their desired vocabulary through sentences of their skill level. To do this, we utilize Meta’s Llama model and attempt various methods of sentence generation including prompting as well as decoder modifications. To evaluate the sentences, currently we are only evaluating for the coherence of the sentences, but ideally this system would need human evaluations since the sentence generation is user specific. For the scope of this class project, we have chosen to work with the english language since all team members are proficient in English it would better allow up to prototype and perform initial human evaluations.
+      Language learning is a complex process, and with the lack of personalized tools outside the classroom, language learners often are hindered in their pursuit of new vocabulary acquisition. Large language models (LLMs) present a promising medium for practical conversational practice as well as personalization.
+    </p>
+    <p>
+      Our goal for this project is to aid in a language learner’s acquisition of new vocabulary words through conversation. More specifically, given a vocabulary word(s) the learner wants to learn, the LLM will generate a sentence containing the word with enough context for the learner to understand the meaning while keeping the skill level (known vocabulary) of the learner in mind. This allows the language learner to learn their desired vocabulary through sentences of their skill level.
+    </p>
+    <p>
+      To do this, we utilize Meta’s Llama model and attempt various methods of sentence generation including prompting as well as decoder modifications. To evaluate the sentences, currently we are only evaluating for the coherence of the sentences, but ideally this system would need human evaluations since the sentence generation is user specific.
+    </p>
+    <p>
+      For the scope of this class project, we have chosen to work with the english language since all team members are proficient in English it would better allow up to prototype and perform initial human evaluations.
 
     </p>
 
@@ -206,7 +215,7 @@ This project would have a direct use for the authors (and other language learner
 Getting things running on MSI may be a challenge, and we're still at time of writing figuring out exactly how we're going to quantitatively evaluate our model. Another worry is that direct decoding-time interference may be too "local" of a modification to make, so maybe this method would not perform well in the case of languages with long-range linguistic structures (seperable verb/complement pairs like in German (and English) come to mind.)
 </p> -->
 <p>
-  In language learning, one of the most effective
+In language learning, one of the most effective
 ways to acquire fluency is through conversational
 practice. One of the problems in language learning
 is that predefined “levels” of proficiency of a language do not generalize well enough to an individual learning the language. Oftentimes the learning
@@ -247,14 +256,72 @@ tailors its own language and behavior to challenge
 the language learner in a level-appropriate manner.
 </p>
 
+
 <hr>
-    
-<h2 id="results">Results</h2>
+<h2 id="approach">Approach</h2>
 <p>
-<b>How did you measure success? What experiments were used? What were the results, both quantitative and qualitative? Did you succeed? Did you fail? Why?</b>
+Our experiment tested the lexical logit boosting (LLB) prototype, focusing on generating and evaluating example sentences with specific vocabulary words. The vocabulary set consisted of the 500 most common English words scraped from a website that did not lemmatize words. This ensured words like "is" were included, unlike in lemmatized lists where they would be grouped under "be." The choice of this vocabulary set was arbitrary and motivated by its simplicity and suitability for prototyping, although other sets (e.g., words starting with "e") could have been used.
 </p>
 <p>
-We still need to figure our evaluation metrics out. We'll look at educational/HCI literature and perhaps end up defining some bespoke evaluation metric, though considering our time limitations, it will likely need to be quite simple to implement.
+From this list, 20 target words were randomly selected. Various configurations of large language models (LLMs) were then prompted to generate example sentences using these target words. The Llama 3.1 8B Instruct model was tested with different values of the boost hyperparameter 
+𝑏
+, where 
+𝑏 = 0 served as the control. The Gemini 1.5 Flash model, accessed via Google’s API, was used as a reference state-of-the-art unmodified model.
+</p>
+<p>
+Unlike the Llama models, which were prompted only with the target word and instructions, the Gemini model was supplied with the entire vocabulary list via its prompt. This approach, though effective for small vocabularies, is less scalable and potentially costly for larger vocabularies. The generated sentences were evaluated to produce the final results. Details on the prompts and hyperparameters are provided in Appendix A of the paper.
+</p>
+
+
+
+
+
+<hr>
+<h2 id="results">Results</h2>
+
+<p>
+  The results demonstrated that stronger boosts led to increased adherence to the vocabulary set (Figure 3). However, this came at the cost of generation quality, as observed in human evaluations (Figure 5) and the LLM’s ability to follow prompts and include target words (Figure 4). This tradeoff between control and quality aligns with findings from Liang et al. (2024). Among the tested configurations, the moderate boost value 
+  (𝑏 = 4) provided the best balance: its quality was only slightly worse than the control 
+  (𝑏 = 0) and the Gemini model, while its mean percentage of non-vocabulary words was significantly lower than the Gemini model.
+</p>
+<p>
+    Inter-evaluator agreement, measured using Krippendorff’s 
+    𝛼, showed values of 0.76, 0.66, and 0.69 for the mechanics, semantics, and context metrics, respectively. Qualitatively, higher boost values 
+    (𝑏 > 4) tended to produce long, run-on sentences, likely because the vocabulary set excluded punctuation, leaving punctuation tokens unboosted. Adding punctuation to the vocabulary set could address this issue due to LLB's transparency properties.
+    
+    Additionally, the LLB model struggled to generate high-quality sentences when target words were lexically complex, suggesting a limitation in handling more challenging vocabulary.
+</p>
+
+<div style="display: flex; gap: 20px;">
+  <figure>
+    <img src="img/out_of_vocab.png" alt="alternatetext" style="width: 100%; height: auto;">
+    <figcaption>
+      Figure 3: As the boost parameter 𝑏 was increased, the
+      generation tended more and more strongly towards using words from the vocab set, as intended.
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="img/contains_target.png" alt="alternatetext" style="width: 100%; height: auto;">
+    <figcaption>
+      Figure 4: As the boost parameter 𝑏 was increased, the
+      fraction of generations containing the target word undesirably decreased.
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="img/human_evals.png" alt="alternatetext" style="width: 100%; height: auto;">
+    <figcaption>
+      Figure 5: As the boost parameter 𝑏 was increased, human evaluations of generation quality were initially not
+    heavily affected. However, when 𝑏 became sufficiently
+    large, evaluation scores dropped heavily.
+    </figcaption>
+  </figure>
+</div>
+
+<hr>
+<h2 id="conclusion">Conclustion and Future Work</h2>
+
+
+
 <!-- </p>
 <table>
   <thead>
