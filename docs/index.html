@@ -136,7 +136,7 @@
     
     <b>One or two sentences on the main result you obtained.</b>
     <p>N/A</p> -->
-
+<!-- 
     <p>
       Language learning is a complex process, and with the lack of personalized tools outside the classroom, language learners often are hindered in their pursuit of new vocabulary acquisition. Large language models (LLMs) present a promising medium for practical conversational practice as well as personalization.
     </p>
@@ -149,8 +149,26 @@
     <p>
       For the scope of this class project, we have chosen to work with the english language since all team members are proficient in English it would better allow up to prototype and perform initial human evaluations.
 
-    </p>
+    </p> -->
 
+    <p>
+      Large language models hold potential as conversational language-learning assistants for lan-
+guage learners. However, a common issue is
+that LLM assistants can produce output using
+vocabulary or grammar that is outside of the
+learner’s abilities to understand. In this report
+we demonstrate a novel decoding-time technique, “lexical logit boost”, that encourages an
+LLM to use words from an arbitrary “vocabulary set” provided by the user at inference time.
+We specifically focus on the task of generating
+user-appropriate vocabulary example sentences,
+and we provide simple evaluations for this task.
+Tuning was required of our “boost” hyperparameter to balance the LLM’s adherence to the
+vocabulary set and the generation quality. In
+the end, using lexical logit boost with Llama
+3.1 8B, we are able to outperform prompting
+techniques used on the larger model Gemini
+1.5 Flash.
+    </p>
 
 
 
