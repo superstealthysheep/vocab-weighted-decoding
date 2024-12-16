@@ -82,14 +82,14 @@
           </span>
           <span class="link-block">
             <a
-              href=""
+              href="https://github.com/superstealthysheep/vocab-weighted-decoding"
               target="_blank"
               class="external-link button is-normal is-rounded is-dark is-outlined"
             >
             <span>Code</span>
             </a>
           </span>      
-          <span class="link-block">
+          <!-- <span class="link-block">
             <a
               href=""
               target="_blank"
@@ -97,7 +97,7 @@
             >
             <span>Model Weights</span>
             </a>
-          </span>              
+          </span>               -->
         </div>
       </div>
 
@@ -128,14 +128,20 @@
     <!-- The core of our model will be Llama 3.1 8B. Our problem fits under the larger umbrella of controllable text generation, and the approach that we currently plan to use is to modify the decoder to take a list of target words (e.g. familar words, frontier words) as an auxillary input. Then, when sampling, the decoder will  boost the logits of words* in the familiar and frontier vocab lists. (*Note: since sampling happens on the subword token level, we are thinking about employing a tree search method such as beam search to "look ahead" several tokens into the future and boost the probability of any paths resulting in desired words.) -->
 
 
-    <b>One or two sentences on the motivation behind the problem you are solving.</b>
+    <!-- <b>One or two sentences on the motivation behind the problem you are solving.</b>
     <p>Our project is to create a <u>conversational chatbot</u> that will expand the user's English vocabulary by <u>gradually introducing novel words</u>. Given a list of words that the user is familiar with and a list that is on the frontier of their understanding, at inference time the model will select its wording to <u>prefer familiar words</u> and a small amount of unfamiliar words.</p>
 
     <b>One or two sentences describing the approach you took.</b>
     <p>The core of our model will be <u>Llama 3.1 8B</u>. Our problem fits under the larger umbrella of controllable text generation, and the approach that we currently plan to use is to <u>modify the decoder</u> to take a list of target words (e.g. familar words, frontier words) as an auxillary input. Then, when sampling, the decoder will <u>boost the logits</u> of words* in the familiar and frontier vocab lists. (*Note: since sampling happens on the subword token level, we are thinking about employing a tree search method such as beam search to "look ahead" several tokens into the future and boost the probability of any paths resulting in desired words.)</p>
     
     <b>One or two sentences on the main result you obtained.</b>
-    <p>N/A</p>
+    <p>N/A</p> -->
+
+    <p>
+      Language learning is a complex process, and with the lack of personalized tools outside the classroom, language learners often are hindered in their pursuit of new vocabulary acquisition. Large language models (LLMs) present a promising medium for practical conversational practice as well as personalization. Our goal for this project is to aid in a language learner’s acquisition of new vocabulary words through conversation. More specifically, given a vocabulary word(s) the learner wants to learn, the LLM will generate a sentence containing the word with enough context for the learner to understand the meaning while keeping the skill level (known vocabulary) of the learner in mind. This allows the language learner to learn their desired vocabulary through sentences of their skill level. To do this, we utilize Meta’s Llama model and attempt various methods of sentence generation including prompting as well as decoder modifications. To evaluate the sentences, currently we are only evaluating for the coherence of the sentences, but ideally this system would need human evaluations since the sentence generation is user specific. For the scope of this class project, we have chosen to work with the english language since all team members are proficient in English it would better allow up to prototype and perform initial human evaluations.
+
+    </p>
+
 
 
 
@@ -156,7 +162,7 @@
 
 <h2 id="introduction">Introduction / Background / Motivation</h2>
 
-<p>
+<!-- <p>
 <b>What did you try to do? What problem did you try to solve? Articulate your objectives using absolutely no jargon.</b>
 </p>
 <p>
@@ -177,11 +183,14 @@ Based on a brief literature survey, there seems to not be much work directly don
 This project would have a direct use for the authors (and other language learners) because it would allow for more effective pedagogical conversations with LLMs. This would potentially have general applications for all language learners who wish to practice conversation with LLMs but who are overwhelmed by a large amount of advanced vocabulary used by the LLM. The authors currently imagine that the user would likely be people learning a second language, but perhaps this technique could even find use in early acquisition of first languages in children (perhaps).
 </p>
 
-<hr>
-
-<h2 id="approach">Approach</h2>
-
+<hr> -->
 <p>
+
+</p>
+
+<!-- <h2 id="approach">Approach</h2> -->
+
+<!-- <p>
 <b>What did you do exactly? How did you solve the problem? Why did you think it would be successful? Is anything new in your approach?</b>
 </p>
 
@@ -195,6 +204,47 @@ This project would have a direct use for the authors (and other language learner
 
 <p>
 Getting things running on MSI may be a challenge, and we're still at time of writing figuring out exactly how we're going to quantitatively evaluate our model. Another worry is that direct decoding-time interference may be too "local" of a modification to make, so maybe this method would not perform well in the case of languages with long-range linguistic structures (seperable verb/complement pairs like in German (and English) come to mind.)
+</p> -->
+<p>
+  In language learning, one of the most effective
+ways to acquire fluency is through conversational
+practice. One of the problems in language learning
+is that predefined “levels” of proficiency of a language do not generalize well enough to an individual learning the language. Oftentimes the learning
+path of a language learner outside the classroom
+cannot be expressed as a linear progression through
+predefined “levels”. Depending on individual interest factors for learning a language such as travel,
+casual conversation, or mastery, different vocabulary may be more relevant at different times.
+</p>
+<p>
+When the vocabulary in a conversation is too advanced, language learners are forced to rely on external aids such as dictionaries and translation tools.
+This process disrupts the flow of practice and may
+introduce even more advanced words that can lead
+the language learner to an overwhelming exposure
+of unfamiliar words. This is especially problematic
+for language learners who are just starting or have
+a limited vocabulary base. This disruption from the
+flow of practice can lead to discouragement and
+disengagement from the language learning process.
+The goal of this project is to address the difference
+in an individual’s vocabulary to make the flow of
+practice more natural with less disruptions.
+</p>
+<p>
+LLMs, with their ability to generate diverse and
+context rich responses, hold promise to become
+great assets for language learners. They are able to
+simulate a conversational partner, and through this
+project’s exploration of various sentence generation
+techniques.
+</p>
+<p>
+In this report, we present the results of our exploration of various methods for sentence generation
+that may have application in the domain of language learning. We intend for this project to be the
+first step towards towards eventually building an
+LLM conversation partner that actively monitors
+the user’s language proficiency and vocabulary and
+tailors its own language and behavior to challenge
+the language learner in a level-appropriate manner.
 </p>
 
 <hr>
